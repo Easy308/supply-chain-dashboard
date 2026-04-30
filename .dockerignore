@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+*.png
+cookies.txt
+uploads/*
+data/users.json
+data/files.json
+启动.bat
+README.md
+部署说明.md

@@ -1,0 +1,4795 @@
+{
+  "categories": [
+    "电子电器",
+    "纺织服装",
+    "五金工具",
+    "箱包皮具",
+    "家具家居",
+    "汽摩配件",
+    "玩具文具",
+    "食品加工",
+    "建材陶瓷",
+    "鞋类制造",
+    "塑料橡胶",
+    "灯具照明",
+    "美妆日化",
+    "珠宝饰品",
+    "机械设备",
+    "包装印刷",
+    "医疗器械",
+    "户外运动",
+    "宠物用品",
+    "母婴用品",
+    "3C数码配件",
+    "厨房用品",
+    "园林工具",
+    "安防监控",
+    "汽车内饰",
+    "电动工具",
+    "新能源",
+    "化工原料"
+  ],
+  "provinces": [
+    {
+      "name": "广东省",
+      "code": "guangdong",
+      "color": "#00f2fe",
+      "belts": [
+        {
+          "name": "深圳电子产业带",
+          "location": "深圳市",
+          "county": "宝安区/南山区/龙华区",
+          "category": "电子电器",
+          "tags": [
+            "消费电子",
+            "半导体",
+            "智能硬件",
+            "PCB",
+            "3C数码配件"
+          ],
+          "supplierCount": 28500,
+          "topSuppliers": [
+            {
+              "name": "深圳市汇顶科技股份有限公司",
+              "regTime": "2002-07",
+              "regCapital": "45800万",
+              "paidCapital": "45800万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "华为",
+                "OPPO",
+                "vivo"
+              ],
+              "employees": "3500+",
+              "revenue": "60亿+",
+              "contact": "0755-86168000",
+              "website": "www.goodix.com",
+              "mainCategory": "芯片/指纹识别"
+            },
+            {
+              "name": "深圳市大族激光科技产业集团",
+              "regTime": "1996-06",
+              "regCapital": "106800万",
+              "paidCapital": "106800万",
+              "qualification": "上市公司/国家高新",
+              "partners": [
+                "苹果",
+                "华为",
+                "特斯拉"
+              ],
+              "employees": "14000+",
+              "revenue": "150亿+",
+              "contact": "0755-26013888",
+              "website": "www.hanslaser.com",
+              "mainCategory": "激光设备/精密加工"
+            },
+            {
+              "name": "深圳市蓝思科技有限公司",
+              "regTime": "2006-03",
+              "regCapital": "85000万",
+              "paidCapital": "85000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "三星",
+                "小米"
+              ],
+              "employees": "8000+",
+              "revenue": "100亿+",
+              "contact": "0755-28477888",
+              "website": "www.lens-tech.com",
+              "mainCategory": "玻璃盖板/触控面板"
+            },
+            {
+              "name": "深圳市创维电子有限公司",
+              "regTime": "1988-11",
+              "regCapital": "128000万",
+              "paidCapital": "128000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "Walmart",
+                "Costco",
+                "Best Buy"
+              ],
+              "employees": "40000+",
+              "revenue": "500亿+",
+              "contact": "0755-26012345",
+              "website": "www.skyworth.com",
+              "mainCategory": "电视/智能家电"
+            },
+            {
+              "name": "深圳市傲基科技股份有限公司",
+              "regTime": "2010-01",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "Amazon",
+                "Walmart"
+              ],
+              "employees": "3000+",
+              "revenue": "50亿+",
+              "contact": "0755-86960000",
+              "website": "www.aukey.com",
+              "mainCategory": "充电器/数据线/电子配件"
+            },
+            {
+              "name": "深圳市海思半导体有限公司",
+              "regTime": "2004-10",
+              "regCapital": "60000万",
+              "paidCapital": "60000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "华为"
+              ],
+              "employees": "7000+",
+              "revenue": "不公开",
+              "contact": "0755-28780808",
+              "website": "www.hisilicon.com",
+              "mainCategory": "芯片设计/处理器/AI芯片"
+            },
+            {
+              "name": "深圳市华星光电半导体显示技术有限公司",
+              "regTime": "2009-11",
+              "regCapital": "1930000万",
+              "paidCapital": "1930000万",
+              "qualification": "国家高新",
+              "partners": [
+                "TCL",
+                "三星",
+                "小米"
+              ],
+              "employees": "20000+",
+              "revenue": "600亿+",
+              "contact": "0755-21539888",
+              "website": "www.csot.com",
+              "mainCategory": "显示面板/LCD/OLED"
+            },
+            {
+              "name": "深圳市比亚迪电子部品件有限公司",
+              "regTime": "2003-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "上市公司子公司",
+              "partners": [
+                "苹果",
+                "华为",
+                "三星"
+              ],
+              "employees": "60000+",
+              "revenue": "1000亿+",
+              "contact": "0755-89888888",
+              "website": "www.byd.com",
+              "mainCategory": "手机代工/金属结构件/电池"
+            },
+            {
+              "name": "深圳市兆驰股份有限公司",
+              "regTime": "2005-04",
+              "regCapital": "166000万",
+              "paidCapital": "166000万",
+              "qualification": "上市公司",
+              "partners": [
+                "飞利浦",
+                "创维"
+              ],
+              "employees": "20000+",
+              "revenue": "200亿+",
+              "contact": "0755-26981888",
+              "website": "www.megmeet.com",
+              "mainCategory": "LED/电源/液晶电视"
+            },
+            {
+              "name": "深圳市瑞丰光电子股份有限公司",
+              "regTime": "2000-03",
+              "regCapital": "45000万",
+              "paidCapital": "45000万",
+              "qualification": "上市公司/国家高新",
+              "partners": [
+                "三星",
+                "LG",
+                "飞利浦"
+              ],
+              "employees": "3000+",
+              "revenue": "30亿+",
+              "contact": "0755-29415888",
+              "website": "www.refond.com",
+              "mainCategory": "LED封装/Mini LED"
+            },
+            {
+              "name": "深圳市洲明科技股份有限公司",
+              "regTime": "2004-12",
+              "regCapital": "72000万",
+              "paidCapital": "72000万",
+              "qualification": "上市公司",
+              "partners": [
+                "华为",
+                "阿里巴巴"
+              ],
+              "employees": "5000+",
+              "revenue": "60亿+",
+              "contact": "0755-29988288",
+              "website": "www.unilumin.com",
+              "mainCategory": "LED显示/智慧照明"
+            },
+            {
+              "name": "深圳市德赛电池科技股份有限公司",
+              "regTime": "1995-01",
+              "regCapital": "26000万",
+              "paidCapital": "26000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "华为",
+                "三星"
+              ],
+              "employees": "8000+",
+              "revenue": "200亿+",
+              "contact": "0752-3366888",
+              "website": "www.desay-battery.com",
+              "mainCategory": "锂电池/移动电源"
+            },
+            {
+              "name": "深圳市长盈精密技术股份有限公司",
+              "regTime": "2001-11",
+              "regCapital": "96000万",
+              "paidCapital": "96000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "华为",
+                "OPPO"
+              ],
+              "employees": "25000+",
+              "revenue": "200亿+",
+              "contact": "0755-28126888",
+              "website": "www.everwin.com",
+              "mainCategory": "精密连接器/结构件"
+            },
+            {
+              "name": "深圳市安克创新科技股份有限公司",
+              "regTime": "2011-12",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司/跨境品牌",
+              "partners": [
+                "Amazon",
+                "Walmart",
+                "Best Buy"
+              ],
+              "employees": "4000+",
+              "revenue": "170亿+",
+              "contact": "0755-86168888",
+              "website": "www.anker.com",
+              "mainCategory": "充电器/移动电源/音频"
+            },
+            {
+              "name": "深圳市绿联科技股份有限公司",
+              "regTime": "2012-06",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司/跨境品牌",
+              "partners": [
+                "Amazon",
+                "京东",
+                "天猫"
+              ],
+              "employees": "3500+",
+              "revenue": "100亿+",
+              "contact": "0755-26168888",
+              "website": "www.ugreen.com",
+              "mainCategory": "数据线/扩展坞/充电器"
+            }
+          ]
+        },
+        {
+          "name": "东莞智能制造产业带",
+          "location": "东莞市",
+          "county": "长安镇/虎门镇/厚街镇",
+          "category": "电子电器",
+          "tags": [
+            "手机配件",
+            "模具",
+            "精密制造",
+            "智能穿戴"
+          ],
+          "supplierCount": 22000,
+          "topSuppliers": [
+            {
+              "name": "东莞市歌尔股份有限公司",
+              "regTime": "2001-06",
+              "regCapital": "56000万",
+              "paidCapital": "56000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "Meta",
+                "索尼"
+              ],
+              "employees": "50000+",
+              "revenue": "300亿+",
+              "contact": "0769-22001000",
+              "website": "www.goertek.com",
+              "mainCategory": "声学器件/VR设备"
+            },
+            {
+              "name": "东莞市劲胜智能集团",
+              "regTime": "2003-08",
+              "regCapital": "28000万",
+              "paidCapital": "28000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "华为",
+                "三星"
+              ],
+              "employees": "8000+",
+              "revenue": "45亿+",
+              "contact": "0769-88773888",
+              "website": "www.everwin.com",
+              "mainCategory": "精密结构件/CNC加工"
+            },
+            {
+              "name": "东莞市领益智造股份有限公司",
+              "regTime": "2002-01",
+              "regCapital": "260000万",
+              "paidCapital": "260000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "华为",
+                "特斯拉"
+              ],
+              "employees": "30000+",
+              "revenue": "300亿+",
+              "contact": "0769-22301888",
+              "website": "www.luxshare-ict.com",
+              "mainCategory": "精密功能件/结构件"
+            },
+            {
+              "name": "东莞市正扬电子机械有限公司",
+              "regTime": "2005-03",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "国家高新",
+              "partners": [
+                "OPPO",
+                "vivo"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0769-85312888",
+              "website": "",
+              "mainCategory": "手机配件/精密模具"
+            },
+            {
+              "name": "东莞市长安镇新益精密五金有限公司",
+              "regTime": "2003-06",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "广东省高新",
+              "partners": [
+                "苹果供应链"
+              ],
+              "employees": "2000+",
+              "revenue": "10亿+",
+              "contact": "0769-85302888",
+              "website": "",
+              "mainCategory": "精密五金/CNC加工"
+            },
+            {
+              "name": "东莞市金太阳研磨股份有限公司",
+              "regTime": "1992-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "上市公司",
+              "partners": [
+                "3M",
+                "Saint-Gobain"
+              ],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0769-85101888",
+              "website": "www.gts-abr.com",
+              "mainCategory": "涂附磨具/研磨材料"
+            },
+            {
+              "name": "东莞市捷荣技术股份有限公司",
+              "regTime": "2005-09",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "上市公司",
+              "partners": [
+                "华为",
+                "小米",
+                "联想"
+              ],
+              "employees": "8000+",
+              "revenue": "30亿+",
+              "contact": "0769-85333888",
+              "website": "www.jeroan.com",
+              "mainCategory": "手机结构件/模具注塑"
+            },
+            {
+              "name": "东莞市信鸿电子有限公司",
+              "regTime": "1999-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "国家高新",
+              "partners": [
+                "华为",
+                "中兴"
+              ],
+              "employees": "5000+",
+              "revenue": "25亿+",
+              "contact": "0769-85268888",
+              "website": "",
+              "mainCategory": "FPC柔性电路板/HDI"
+            }
+          ]
+        },
+        {
+          "name": "佛山家具产业带",
+          "location": "佛山市",
+          "county": "顺德区/南海区/禅城区",
+          "category": "家具家居",
+          "tags": [
+            "家具",
+            "陶瓷",
+            "铝材",
+            "不锈钢"
+          ],
+          "supplierCount": 18000,
+          "topSuppliers": [
+            {
+              "name": "佛山市维尚家具制造有限公司",
+              "regTime": "2006-07",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "尚品宅配"
+              ],
+              "employees": "12000+",
+              "revenue": "70亿+",
+              "contact": "0757-29225555",
+              "website": "www.homekoo.com",
+              "mainCategory": "定制家具"
+            },
+            {
+              "name": "佛山市联塑科技实业有限公司",
+              "regTime": "1986-01",
+              "regCapital": "240000万",
+              "paidCapital": "240000万",
+              "qualification": "上市公司",
+              "partners": [
+                "万科",
+                "碧桂园",
+                "恒大"
+              ],
+              "employees": "25000+",
+              "revenue": "300亿+",
+              "contact": "0757-85512888",
+              "website": "www.lesso.com",
+              "mainCategory": "管道/建材/家居"
+            },
+            {
+              "name": "佛山市顺德区美的电热电器制造有限公司",
+              "regTime": "1968-01",
+              "regCapital": "680000万",
+              "paidCapital": "680000万",
+              "qualification": "世界500强",
+              "partners": [
+                "全球零售渠道"
+              ],
+              "employees": "150000+",
+              "revenue": "3500亿+",
+              "contact": "0757-26338888",
+              "website": "www.midea.com",
+              "mainCategory": "家电/暖通/机器人"
+            },
+            {
+              "name": "广东志达家居实业有限公司",
+              "regTime": "1990-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "红星美凯龙",
+                "居然之家"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0757-28786888",
+              "website": "",
+              "mainCategory": "沙发/软体家具"
+            },
+            {
+              "name": "佛山市南海区全友家私有限公司",
+              "regTime": "1986-01",
+              "regCapital": "80000万",
+              "paidCapital": "80000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "全国经销渠道"
+              ],
+              "employees": "20000+",
+              "revenue": "100亿+",
+              "contact": "0757-86325888",
+              "website": "www.quanyou.com.cn",
+              "mainCategory": "板式家具/定制家居"
+            },
+            {
+              "name": "佛山市顺德区左右家私有限公司",
+              "regTime": "1986-06",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "红星美凯龙"
+              ],
+              "employees": "8000+",
+              "revenue": "50亿+",
+              "contact": "0757-28901888",
+              "website": "www.zuoyou.com",
+              "mainCategory": "沙发/客厅家具"
+            },
+            {
+              "name": "佛山市新明珠陶瓷集团有限公司",
+              "regTime": "1992-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "碧桂园",
+                "万科"
+              ],
+              "employees": "10000+",
+              "revenue": "80亿+",
+              "contact": "0757-85386888",
+              "website": "www.xmz-group.com",
+              "mainCategory": "瓷砖/岩板/卫浴"
+            },
+            {
+              "name": "佛山市科达机电股份有限公司",
+              "regTime": "1992-05",
+              "regCapital": "86000万",
+              "paidCapital": "86000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全球建材企业"
+              ],
+              "employees": "5000+",
+              "revenue": "60亿+",
+              "contact": "0757-82013888",
+              "website": "www.kedachina.com",
+              "mainCategory": "陶瓷机械/墙材装备"
+            }
+          ]
+        },
+        {
+          "name": "佛山陶瓷产业带",
+          "location": "佛山市",
+          "county": "禅城区/三水区",
+          "category": "建材陶瓷",
+          "tags": [
+            "瓷砖",
+            "卫浴",
+            "建筑陶瓷"
+          ],
+          "supplierCount": 8500,
+          "topSuppliers": [
+            {
+              "name": "佛山市东鹏陶瓷有限公司",
+              "regTime": "1972-01",
+              "regCapital": "80000万",
+              "paidCapital": "80000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "万达",
+                "碧桂园"
+              ],
+              "employees": "10000+",
+              "revenue": "80亿+",
+              "contact": "0757-85330222",
+              "website": "www.dongpeng.com",
+              "mainCategory": "瓷砖/卫浴"
+            }
+          ]
+        },
+        {
+          "name": "中山灯具产业带",
+          "location": "中山市",
+          "county": "古镇镇/横栏镇/小榄镇",
+          "category": "灯具照明",
+          "tags": [
+            "LED灯",
+            "照明",
+            "灯饰",
+            "智能照明"
+          ],
+          "supplierCount": 15000,
+          "topSuppliers": [
+            {
+              "name": "中山市欧普照明有限公司",
+              "regTime": "1996-08",
+              "regCapital": "85000万",
+              "paidCapital": "85000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "万达",
+                "恒大",
+                "碧桂园"
+              ],
+              "employees": "6000+",
+              "revenue": "90亿+",
+              "contact": "0760-22517777",
+              "website": "www.opple.com",
+              "mainCategory": "LED照明/家居照明"
+            },
+            {
+              "name": "中山市华艺灯饰照明有限公司",
+              "regTime": "1986-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "广东省著名商标",
+              "partners": [
+                "希尔顿",
+                "万豪"
+              ],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0760-22348888",
+              "website": "www.huayi-lighting.com",
+              "mainCategory": "装饰灯/工程照明"
+            },
+            {
+              "name": "中山市木林森股份有限公司",
+              "regTime": "1997-01",
+              "regCapital": "157000万",
+              "paidCapital": "157000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全球照明市场"
+              ],
+              "employees": "20000+",
+              "revenue": "200亿+",
+              "contact": "0760-22639888",
+              "website": "www.mls-led.com",
+              "mainCategory": "LED封装/LED照明"
+            },
+            {
+              "name": "中山市三雄极光照明股份有限公司",
+              "regTime": "1991-01",
+              "regCapital": "42000万",
+              "paidCapital": "42000万",
+              "qualification": "上市公司",
+              "partners": [
+                "万达",
+                "恒大"
+              ],
+              "employees": "3000+",
+              "revenue": "30亿+",
+              "contact": "0760-22517888",
+              "website": "www.pak.com.cn",
+              "mainCategory": "LED照明/商业照明"
+            },
+            {
+              "name": "广东琪朗灯饰有限公司",
+              "regTime": "1993-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "Marriott",
+                "Hilton"
+              ],
+              "employees": "2000+",
+              "revenue": "10亿+",
+              "contact": "0760-22348222",
+              "website": "",
+              "mainCategory": "水晶灯/酒店灯饰"
+            },
+            {
+              "name": "中山市泰腾灯饰有限公司",
+              "regTime": "2005-01",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "中山市名牌",
+              "partners": [
+                "IKEA供应链"
+              ],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0760-22383888",
+              "website": "",
+              "mainCategory": "LED灯/现代简约灯"
+            },
+            {
+              "name": "中山市华裕灯饰有限公司",
+              "regTime": "2000-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "Home Depot",
+                "Lowe's"
+              ],
+              "employees": "1200+",
+              "revenue": "5亿+",
+              "contact": "0760-22350888",
+              "website": "",
+              "mainCategory": "户外照明/景观灯/壁灯"
+            }
+          ]
+        },
+        {
+          "name": "广州美妆产业带",
+          "location": "广州市",
+          "county": "白云区/花都区",
+          "category": "美妆日化",
+          "tags": [
+            "化妆品",
+            "护肤品",
+            "美容仪器",
+            "日化"
+          ],
+          "supplierCount": 12000,
+          "topSuppliers": [
+            {
+              "name": "广州市环亚化妆品科技有限公司",
+              "regTime": "2002-05",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "屈臣氏",
+                "沃尔玛"
+              ],
+              "employees": "5000+",
+              "revenue": "50亿+",
+              "contact": "020-86607888",
+              "website": "www.huanya.com.cn",
+              "mainCategory": "护肤品/洗护用品"
+            },
+            {
+              "name": "广州市宝洁有限公司",
+              "regTime": "1988-01",
+              "regCapital": "180000万",
+              "paidCapital": "180000万",
+              "qualification": "世界500强",
+              "partners": [
+                "全球零售渠道"
+              ],
+              "employees": "8000+",
+              "revenue": "300亿+",
+              "contact": "020-86131888",
+              "website": "www.pg.com.cn",
+              "mainCategory": "日化/洗护/美妆"
+            },
+            {
+              "name": "广州立白企业集团有限公司",
+              "regTime": "1994-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "全国超市渠道"
+              ],
+              "employees": "15000+",
+              "revenue": "200亿+",
+              "contact": "020-86133888",
+              "website": "www.liby.com.cn",
+              "mainCategory": "洗衣液/洗洁精/日化"
+            },
+            {
+              "name": "广州蓝月亮实业有限公司",
+              "regTime": "1992-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全国商超"
+              ],
+              "employees": "10000+",
+              "revenue": "80亿+",
+              "contact": "020-86660888",
+              "website": "www.bluemoon.com.cn",
+              "mainCategory": "洗衣液/清洁用品"
+            },
+            {
+              "name": "广州市丸美生物技术股份有限公司",
+              "regTime": "2002-01",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司",
+              "partners": [
+                "天猫",
+                "京东"
+              ],
+              "employees": "3000+",
+              "revenue": "25亿+",
+              "contact": "020-37885888",
+              "website": "www.marubi.cn",
+              "mainCategory": "眼霜/护肤品/化妆品"
+            },
+            {
+              "name": "广州逸仙电子商务有限公司",
+              "regTime": "2016-01",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "上市公司",
+              "partners": [
+                "天猫",
+                "抖音"
+              ],
+              "employees": "4000+",
+              "revenue": "50亿+",
+              "contact": "020-89811888",
+              "website": "www.yatsen.com",
+              "mainCategory": "完美日记/小奥汀/彩妆"
+            }
+          ]
+        },
+        {
+          "name": "汕头玩具产业带",
+          "location": "汕头市",
+          "county": "澄海区",
+          "category": "玩具文具",
+          "tags": [
+            "塑料玩具",
+            "电动玩具",
+            "益智玩具",
+            "动漫衍生品"
+          ],
+          "supplierCount": 9500,
+          "topSuppliers": [
+            {
+              "name": "广东奥飞娱乐股份有限公司",
+              "regTime": "1993-01",
+              "regCapital": "142000万",
+              "paidCapital": "142000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Disney",
+                "Hasbro"
+              ],
+              "employees": "4000+",
+              "revenue": "30亿+",
+              "contact": "0754-85855999",
+              "website": "www.aofei.com",
+              "mainCategory": "动漫玩具/IP运营"
+            },
+            {
+              "name": "汕头市星辉互动娱乐有限公司",
+              "regTime": "2004-05",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "上市公司",
+              "partners": [
+                "宝马",
+                "兰博基尼"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "0754-88105888",
+              "website": "www.rastar.com",
+              "mainCategory": "遥控车/授权玩具"
+            },
+            {
+              "name": "广东邦宝益智玩具股份有限公司",
+              "regTime": "2003-01",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全球玩具市场"
+              ],
+              "employees": "2000+",
+              "revenue": "8亿+",
+              "contact": "0754-88105222",
+              "website": "www.banbao.com",
+              "mainCategory": "积木/益智玩具"
+            },
+            {
+              "name": "广东群宇互动科技有限公司",
+              "regTime": "2008-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "广东省高新",
+              "partners": [
+                "Disney",
+                "任天堂"
+              ],
+              "employees": "1000+",
+              "revenue": "5亿+",
+              "contact": "0754-88106888",
+              "website": "",
+              "mainCategory": "电子玩具/智能玩具"
+            },
+            {
+              "name": "汕头市小白龙动漫文化股份有限公司",
+              "regTime": "2004-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "动漫IP授权"
+              ],
+              "employees": "1500+",
+              "revenue": "5亿+",
+              "contact": "0754-88101888",
+              "website": "www.cogo.cc",
+              "mainCategory": "积木/动漫玩具/IP玩具"
+            },
+            {
+              "name": "汕头市智高文具有限公司",
+              "regTime": "2001-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "沃尔玛"
+              ],
+              "employees": "1500+",
+              "revenue": "5亿+",
+              "contact": "0754-88103888",
+              "website": "",
+              "mainCategory": "文具/橡皮泥/美术用品"
+            },
+            {
+              "name": "广东实丰文化发展股份有限公司",
+              "regTime": "2008-01",
+              "regCapital": "23000万",
+              "paidCapital": "23000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Mattel",
+                "全球玩具渠道"
+              ],
+              "employees": "2000+",
+              "revenue": "6亿+",
+              "contact": "0754-88102888",
+              "website": "",
+              "mainCategory": "娃娃玩具/电动玩具"
+            }
+          ]
+        },
+        {
+          "name": "惠州电子产业带",
+          "location": "惠州市",
+          "county": "惠城区/仲恺高新区",
+          "category": "电子电器",
+          "tags": [
+            "电池",
+            "电路板",
+            "电子元器件",
+            "新能源"
+          ],
+          "supplierCount": 8200,
+          "topSuppliers": [
+            {
+              "name": "惠州市亿纬锂能股份有限公司",
+              "regTime": "2001-06",
+              "regCapital": "200000万",
+              "paidCapital": "200000万",
+              "qualification": "上市公司/国家高新",
+              "partners": [
+                "宝马",
+                "小鹏",
+                "戴姆勒"
+              ],
+              "employees": "30000+",
+              "revenue": "400亿+",
+              "contact": "0752-2566668",
+              "website": "www.evebattery.com",
+              "mainCategory": "锂电池/储能系统"
+            }
+          ]
+        },
+        {
+          "name": "揭阳五金产业带",
+          "location": "揭阳市",
+          "county": "揭东区/普宁市",
+          "category": "五金工具",
+          "tags": [
+            "不锈钢",
+            "五金制品",
+            "金属加工"
+          ],
+          "supplierCount": 6800,
+          "topSuppliers": [
+            {
+              "name": "揭阳市宏大不锈钢实业有限公司",
+              "regTime": "1998-03",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "广东省名牌",
+              "partners": [],
+              "employees": "1500+",
+              "revenue": "10亿+",
+              "contact": "0663-8612888",
+              "website": "",
+              "mainCategory": "不锈钢餐具/厨具"
+            }
+          ]
+        },
+        {
+          "name": "潮州陶瓷产业带",
+          "location": "潮州市",
+          "county": "枫溪区/潮安区",
+          "category": "建材陶瓷",
+          "tags": [
+            "日用陶瓷",
+            "工艺陶瓷",
+            "卫生陶瓷"
+          ],
+          "supplierCount": 7200,
+          "topSuppliers": [
+            {
+              "name": "广东松发陶瓷股份有限公司",
+              "regTime": "1985-01",
+              "regCapital": "26000万",
+              "paidCapital": "26000万",
+              "qualification": "上市公司",
+              "partners": [
+                "宜家",
+                "沃尔玛"
+              ],
+              "employees": "3000+",
+              "revenue": "8亿+",
+              "contact": "0768-6893288",
+              "website": "www.songfa.com",
+              "mainCategory": "日用陶瓷/艺术瓷"
+            }
+          ]
+        },
+        {
+          "name": "江门水暖卫浴产业带",
+          "location": "江门市",
+          "county": "开平市/鹤山市",
+          "category": "建材陶瓷",
+          "tags": [
+            "水龙头",
+            "花洒",
+            "卫浴五金"
+          ],
+          "supplierCount": 4500,
+          "topSuppliers": [
+            {
+              "name": "开平市贝朗卫浴有限公司",
+              "regTime": "2003-06",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "广东省名牌",
+              "partners": [
+                "科勒"
+              ],
+              "employees": "800+",
+              "revenue": "5亿+",
+              "contact": "0750-2366888",
+              "website": "www.bravat.com.cn",
+              "mainCategory": "卫浴五金/水龙头"
+            }
+          ]
+        },
+        {
+          "name": "深圳安防监控产业带",
+          "location": "深圳市",
+          "county": "龙岗区/宝安区",
+          "category": "安防监控",
+          "tags": [
+            "监控摄像头",
+            "安防系统",
+            "智能门锁",
+            "报警器"
+          ],
+          "supplierCount": 6500,
+          "topSuppliers": [
+            {
+              "name": "深圳市宇视科技有限公司",
+              "regTime": "2011-05",
+              "regCapital": "68000万",
+              "paidCapital": "68000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "阿里巴巴",
+                "腾讯"
+              ],
+              "employees": "5000+",
+              "revenue": "60亿+",
+              "contact": "0755-29898888",
+              "website": "www.uniview.com",
+              "mainCategory": "安防监控/AI视觉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "浙江省",
+      "code": "zhejiang",
+      "color": "#4facfe",
+      "belts": [
+        {
+          "name": "义乌小商品产业带",
+          "location": "金华市",
+          "county": "义乌市",
+          "category": "玩具文具",
+          "tags": [
+            "小商品",
+            "饰品",
+            "文具",
+            "工艺品",
+            "日用百货",
+            "圣诞用品"
+          ],
+          "supplierCount": 35000,
+          "topSuppliers": [
+            {
+              "name": "浙江新光饰品股份有限公司",
+              "regTime": "1995-10",
+              "regCapital": "46000万",
+              "paidCapital": "46000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Zara",
+                "H&M",
+                "Swarovski"
+              ],
+              "employees": "4000+",
+              "revenue": "25亿+",
+              "contact": "0579-85596666",
+              "website": "www.neoglory.com",
+              "mainCategory": "时尚饰品/水钻饰品"
+            },
+            {
+              "name": "义乌市双童日用品有限公司",
+              "regTime": "1994-06",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "Walmart",
+                "Dollar Tree"
+              ],
+              "employees": "1000+",
+              "revenue": "5亿+",
+              "contact": "0579-85551666",
+              "website": "www.ywst.com",
+              "mainCategory": "吸管/日用品"
+            },
+            {
+              "name": "浙江哈尔斯智能家居股份有限公司",
+              "regTime": "2001-12",
+              "regCapital": "42000万",
+              "paidCapital": "42000万",
+              "qualification": "上市公司",
+              "partners": [
+                "星巴克",
+                "Costa"
+              ],
+              "employees": "5000+",
+              "revenue": "30亿+",
+              "contact": "0579-87171888",
+              "website": "www.haers.com",
+              "mainCategory": "保温杯/水杯"
+            },
+            {
+              "name": "义乌市创意园文化用品有限公司",
+              "regTime": "2010-03",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Daiso",
+                "Dollar Tree"
+              ],
+              "employees": "500+",
+              "revenue": "2亿+",
+              "contact": "0579-85533888",
+              "website": "",
+              "mainCategory": "文具/学生用品"
+            },
+            {
+              "name": "浙江真爱集团有限公司",
+              "regTime": "1995-01",
+              "regCapital": "20000万",
+              "paidCapital": "20000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "沃尔玛",
+                "家乐福"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0579-85551888",
+              "website": "www.zhenaiblanket.com",
+              "mainCategory": "毛毯/家纺"
+            },
+            {
+              "name": "义乌市奥凯体育用品有限公司",
+              "regTime": "2008-06",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Decathlon",
+                "迪卡侬"
+              ],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0579-85558888",
+              "website": "",
+              "mainCategory": "体育用品/健身器材"
+            },
+            {
+              "name": "浙江浪莎控股集团有限公司",
+              "regTime": "1995-01",
+              "regCapital": "60000万",
+              "paidCapital": "60000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "全国经销渠道"
+              ],
+              "employees": "8000+",
+              "revenue": "30亿+",
+              "contact": "0579-85581888",
+              "website": "www.langsha.com",
+              "mainCategory": "袜业/内衣/家居服"
+            },
+            {
+              "name": "义乌市荣达工艺品有限公司",
+              "regTime": "2005-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "浙江省出口名牌",
+              "partners": [
+                "Amazon",
+                "eBay"
+              ],
+              "employees": "1000+",
+              "revenue": "5亿+",
+              "contact": "0579-85269888",
+              "website": "",
+              "mainCategory": "圣诞用品/节日装饰"
+            },
+            {
+              "name": "浙江花园生物高科股份有限公司",
+              "regTime": "2000-01",
+              "regCapital": "38000万",
+              "paidCapital": "38000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全球维生素市场"
+              ],
+              "employees": "2000+",
+              "revenue": "20亿+",
+              "contact": "0579-85628888",
+              "website": "www.gardenbio.com.cn",
+              "mainCategory": "维生素D3/生物制品"
+            },
+            {
+              "name": "义乌市拉链行业协会骨干企业群",
+              "regTime": "2003-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "行业集群",
+              "partners": [
+                "全球服装供应链"
+              ],
+              "employees": "3000+",
+              "revenue": "10亿+",
+              "contact": "0579-85386888",
+              "website": "",
+              "mainCategory": "拉链/纽扣/辅料"
+            }
+          ]
+        },
+        {
+          "name": "永康五金产业带",
+          "location": "金华市",
+          "county": "永康市",
+          "category": "五金工具",
+          "tags": [
+            "五金",
+            "电动工具",
+            "门业",
+            "杯壶",
+            "电动车"
+          ],
+          "supplierCount": 12000,
+          "topSuppliers": [
+            {
+              "name": "浙江哈尔斯真空器皿股份有限公司",
+              "regTime": "2001-12",
+              "regCapital": "42000万",
+              "paidCapital": "42000万",
+              "qualification": "上市公司",
+              "partners": [
+                "星巴克",
+                "Costa",
+                "Hydro Flask"
+              ],
+              "employees": "5000+",
+              "revenue": "30亿+",
+              "contact": "0579-87171888",
+              "website": "www.haers.com",
+              "mainCategory": "保温杯/真空器皿"
+            },
+            {
+              "name": "浙江超人科技股份有限公司",
+              "regTime": "1983-01",
+              "regCapital": "36000万",
+              "paidCapital": "36000万",
+              "qualification": "上市公司",
+              "partners": [
+                "飞利浦"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0579-87300000",
+              "website": "www.crsid.com",
+              "mainCategory": "剃须刀/小家电"
+            },
+            {
+              "name": "浙江正阳实业有限公司",
+              "regTime": "1996-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "浙江省名牌",
+              "partners": [],
+              "employees": "2000+",
+              "revenue": "10亿+",
+              "contact": "0579-87100888",
+              "website": "",
+              "mainCategory": "防盗门/安全门"
+            },
+            {
+              "name": "浙江飞剑工贸有限公司",
+              "regTime": "1998-06",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Thermos",
+                "膳魔师"
+              ],
+              "employees": "1500+",
+              "revenue": "8亿+",
+              "contact": "0579-87128888",
+              "website": "",
+              "mainCategory": "保温杯/不锈钢水杯"
+            },
+            {
+              "name": "浙江星月门业有限公司",
+              "regTime": "1989-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "中国驰名商标",
+              "partners": [],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0579-87200888",
+              "website": "www.xingyuedoor.com",
+              "mainCategory": "防盗门/安全门/铜门"
+            },
+            {
+              "name": "浙江王力安防科技股份有限公司",
+              "regTime": "1996-01",
+              "regCapital": "60000万",
+              "paidCapital": "60000万",
+              "qualification": "上市公司",
+              "partners": [
+                "碧桂园",
+                "万科"
+              ],
+              "employees": "8000+",
+              "revenue": "50亿+",
+              "contact": "0579-87306888",
+              "website": "www.wangli.com",
+              "mainCategory": "安全门/智能锁"
+            },
+            {
+              "name": "浙江铁牛集团有限公司",
+              "regTime": "1986-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "浙江省名牌",
+              "partners": [],
+              "employees": "5000+",
+              "revenue": "30亿+",
+              "contact": "0579-87328888",
+              "website": "",
+              "mainCategory": "电动工具/汽车零部件"
+            },
+            {
+              "name": "浙江天喜厨电股份有限公司",
+              "regTime": "2002-01",
+              "regCapital": "16000万",
+              "paidCapital": "16000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "天猫",
+                "京东"
+              ],
+              "employees": "2000+",
+              "revenue": "12亿+",
+              "contact": "0579-87150888",
+              "website": "",
+              "mainCategory": "炊具/厨房五金"
+            }
+          ]
+        },
+        {
+          "name": "温州鞋类产业带",
+          "location": "温州市",
+          "county": "鹿城区/瓯海区/永嘉县",
+          "category": "鞋类制造",
+          "tags": [
+            "皮鞋",
+            "运动鞋",
+            "童鞋",
+            "拖鞋"
+          ],
+          "supplierCount": 15000,
+          "topSuppliers": [
+            {
+              "name": "浙江奥康鞋业股份有限公司",
+              "regTime": "1988-01",
+              "regCapital": "62000万",
+              "paidCapital": "62000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "百丽",
+                "天猫"
+              ],
+              "employees": "10000+",
+              "revenue": "40亿+",
+              "contact": "0577-67195999",
+              "website": "www.aokang.com",
+              "mainCategory": "皮鞋/商务鞋"
+            },
+            {
+              "name": "浙江红蜻蜓鞋业股份有限公司",
+              "regTime": "1995-03",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司",
+              "partners": [],
+              "employees": "6000+",
+              "revenue": "30亿+",
+              "contact": "0577-67981888",
+              "website": "www.reddragonfly.com.cn",
+              "mainCategory": "皮鞋/休闲鞋"
+            },
+            {
+              "name": "浙江巨一鞋业有限公司",
+              "regTime": "2003-06",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Nike",
+                "Adidas",
+                "Under Armour"
+              ],
+              "employees": "10000+",
+              "revenue": "30亿+",
+              "contact": "0577-67111888",
+              "website": "",
+              "mainCategory": "运动鞋代工/品牌鞋"
+            },
+            {
+              "name": "温州市东艺鞋业有限公司",
+              "regTime": "1999-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "温州市名牌",
+              "partners": [
+                "Clarks",
+                "Geox"
+              ],
+              "employees": "3000+",
+              "revenue": "10亿+",
+              "contact": "0577-67222888",
+              "website": "",
+              "mainCategory": "皮鞋/休闲鞋代工"
+            },
+            {
+              "name": "浙江百丽鞋业有限公司",
+              "regTime": "2005-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "浙江省名牌",
+              "partners": [],
+              "employees": "5000+",
+              "revenue": "20亿+",
+              "contact": "0577-67333888",
+              "website": "",
+              "mainCategory": "女鞋/时装鞋"
+            },
+            {
+              "name": "温州康奈集团有限公司",
+              "regTime": "1980-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "中国驰名商标",
+              "partners": [],
+              "employees": "5000+",
+              "revenue": "25亿+",
+              "contact": "0577-85556888",
+              "website": "www.kangnai.com",
+              "mainCategory": "皮鞋/商务鞋"
+            },
+            {
+              "name": "浙江东蒙制衣有限公司",
+              "regTime": "1988-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "浙江省著名商标",
+              "partners": [],
+              "employees": "2000+",
+              "revenue": "8亿+",
+              "contact": "0577-67555888",
+              "website": "",
+              "mainCategory": "男装/西装/商务休闲"
+            }
+          ]
+        },
+        {
+          "name": "宁波家电产业带",
+          "location": "宁波市",
+          "county": "慈溪市/余姚市",
+          "category": "电子电器",
+          "tags": [
+            "家电",
+            "小家电",
+            "厨电",
+            "模具"
+          ],
+          "supplierCount": 11000,
+          "topSuppliers": [
+            {
+              "name": "宁波方太厨具有限公司",
+              "regTime": "1996-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "中国驰名商标",
+              "partners": [],
+              "employees": "15000+",
+              "revenue": "160亿+",
+              "contact": "0574-27680000",
+              "website": "www.fotile.com",
+              "mainCategory": "油烟机/燃气灶/蒸箱"
+            },
+            {
+              "name": "宁波公牛电器股份有限公司",
+              "regTime": "1995-01",
+              "regCapital": "60000万",
+              "paidCapital": "60000万",
+              "qualification": "上市公司",
+              "partners": [
+                "沃尔玛",
+                "家乐福"
+              ],
+              "employees": "12000+",
+              "revenue": "140亿+",
+              "contact": "0574-63028888",
+              "website": "www.gongniu.cn",
+              "mainCategory": "插座/转换器/照明"
+            },
+            {
+              "name": "宁波奥克斯空调有限公司",
+              "regTime": "1994-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "全国经销渠道"
+              ],
+              "employees": "10000+",
+              "revenue": "200亿+",
+              "contact": "0574-65126888",
+              "website": "www.aux.cn",
+              "mainCategory": "空调/冰箱/洗衣机"
+            },
+            {
+              "name": "宁波慈溪月立电器有限公司",
+              "regTime": "1996-08",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Conair",
+                "Remington"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0574-63082888",
+              "website": "",
+              "mainCategory": "电吹风/美发工具"
+            },
+            {
+              "name": "宁波天龙电子股份有限公司",
+              "regTime": "2002-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Harman",
+                "BOSE"
+              ],
+              "employees": "2000+",
+              "revenue": "10亿+",
+              "contact": "0574-63099888",
+              "website": "www.nbtianlv.com",
+              "mainCategory": "音响/扬声器"
+            },
+            {
+              "name": "宁波贝仕达克股份有限公司",
+              "regTime": "2010-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "上市公司",
+              "partners": [
+                "TTI",
+                "Stanley Black&Decker"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0574-63108888",
+              "website": "",
+              "mainCategory": "智能控制器/电动工具控制"
+            },
+            {
+              "name": "宁波卡倍亿电气技术有限公司",
+              "regTime": "2003-01",
+              "regCapital": "25000万",
+              "paidCapital": "25000万",
+              "qualification": "上市公司",
+              "partners": [
+                "通用",
+                "福特",
+                "吉利"
+              ],
+              "employees": "2000+",
+              "revenue": "20亿+",
+              "contact": "0574-63288888",
+              "website": "",
+              "mainCategory": "汽车线束/电连接器"
+            }
+          ]
+        },
+        {
+          "name": "嘉兴皮革产业带",
+          "location": "嘉兴市",
+          "county": "海宁市/桐乡市",
+          "category": "纺织服装",
+          "tags": [
+            "皮革",
+            "皮草",
+            "箱包",
+            "丝绸"
+          ],
+          "supplierCount": 8500,
+          "topSuppliers": [
+            {
+              "name": "海宁中国皮革城股份有限公司",
+              "regTime": "1994-01",
+              "regCapital": "56000万",
+              "paidCapital": "56000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Coach",
+                "Louis Vuitton供应链"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "0573-87216888",
+              "website": "www.chinaleathercity.com",
+              "mainCategory": "皮革交易/皮草"
+            }
+          ]
+        },
+        {
+          "name": "绍兴纺织产业带",
+          "location": "绍兴市",
+          "county": "柯桥区/上虞区",
+          "category": "纺织服装",
+          "tags": [
+            "面料",
+            "印染",
+            "化纤",
+            "纺织"
+          ],
+          "supplierCount": 16000,
+          "topSuppliers": [
+            {
+              "name": "浙江龙盛集团股份有限公司",
+              "regTime": "1970-01",
+              "regCapital": "310000万",
+              "paidCapital": "310000万",
+              "qualification": "上市公司/全球染料龙头",
+              "partners": [
+                "Zara",
+                "H&M",
+                "Nike"
+              ],
+              "employees": "15000+",
+              "revenue": "200亿+",
+              "contact": "0575-82900000",
+              "website": "www.longsheng.com",
+              "mainCategory": "染料/化工/面料"
+            },
+            {
+              "name": "浙江古纤道绿色纤维有限公司",
+              "regTime": "2001-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "全球化纤市场"
+              ],
+              "employees": "3000+",
+              "revenue": "50亿+",
+              "contact": "0575-82938888",
+              "website": "",
+              "mainCategory": "涤纶/化纤/纺丝"
+            },
+            {
+              "name": "浙江红绿蓝纺织印染有限公司",
+              "regTime": "1998-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Zara",
+                "H&M"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "0575-82911888",
+              "website": "",
+              "mainCategory": "面料印染/数码印花"
+            },
+            {
+              "name": "浙江富润股份有限公司",
+              "regTime": "1983-01",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "上市公司",
+              "partners": [],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0575-87210888",
+              "website": "www.furun.com",
+              "mainCategory": "纺织/面料/化纤"
+            },
+            {
+              "name": "浙江天圣化纤有限公司",
+              "regTime": "2003-01",
+              "regCapital": "20000万",
+              "paidCapital": "20000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "全球纺织企业"
+              ],
+              "employees": "2500+",
+              "revenue": "30亿+",
+              "contact": "0575-82922888",
+              "website": "",
+              "mainCategory": "涤纶长丝/DTY/POY"
+            },
+            {
+              "name": "绍兴柯桥东盛印染有限公司",
+              "regTime": "1995-01",
+              "regCapital": "10000万",
+              "paidCapital": "10000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "Nike",
+                "Adidas供应链"
+              ],
+              "employees": "1500+",
+              "revenue": "10亿+",
+              "contact": "0575-84555888",
+              "website": "",
+              "mainCategory": "针织面料/运动面料印染"
+            }
+          ]
+        },
+        {
+          "name": "台州塑料模具产业带",
+          "location": "台州市",
+          "county": "黄岩区/路桥区/温岭市",
+          "category": "塑料橡胶",
+          "tags": [
+            "塑料制品",
+            "模具",
+            "汽配",
+            "阀门"
+          ],
+          "supplierCount": 9800,
+          "topSuppliers": [
+            {
+              "name": "浙江双环传动机械股份有限公司",
+              "regTime": "1980-01",
+              "regCapital": "58000万",
+              "paidCapital": "58000万",
+              "qualification": "上市公司",
+              "partners": [
+                "博世",
+                "采埃孚"
+              ],
+              "employees": "6000+",
+              "revenue": "50亿+",
+              "contact": "0576-84611888",
+              "website": "www.twingear.com",
+              "mainCategory": "齿轮/传动件"
+            }
+          ]
+        },
+        {
+          "name": "杭州跨境电商产业带",
+          "location": "杭州市",
+          "county": "余杭区/萧山区/钱塘区",
+          "category": "电子电器",
+          "tags": [
+            "跨境电商",
+            "数字经济",
+            "智能硬件",
+            "服装电商"
+          ],
+          "supplierCount": 14000,
+          "topSuppliers": [
+            {
+              "name": "杭州海康威视数字技术有限公司",
+              "regTime": "2001-11",
+              "regCapital": "940000万",
+              "paidCapital": "940000万",
+              "qualification": "上市公司/全球安防龙头",
+              "partners": [
+                "政府机构",
+                "全球500强"
+              ],
+              "employees": "50000+",
+              "revenue": "900亿+",
+              "contact": "0571-88075998",
+              "website": "www.hikvision.com",
+              "mainCategory": "安防监控/AI技术"
+            }
+          ]
+        },
+        {
+          "name": "湖州童装产业带",
+          "location": "湖州市",
+          "county": "吴兴区/织里镇",
+          "category": "纺织服装",
+          "tags": [
+            "童装",
+            "婴幼儿服装",
+            "母婴用品"
+          ],
+          "supplierCount": 13000,
+          "topSuppliers": [
+            {
+              "name": "湖州织里童装集团有限公司",
+              "regTime": "2000-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "浙江省名牌",
+              "partners": [
+                "天猫",
+                "京东"
+              ],
+              "employees": "2000+",
+              "revenue": "10亿+",
+              "contact": "0572-3922888",
+              "website": "",
+              "mainCategory": "童装/婴幼儿服装"
+            }
+          ]
+        },
+        {
+          "name": "诸暨袜业产业带",
+          "location": "绍兴市",
+          "county": "诸暨市/大唐镇",
+          "category": "纺织服装",
+          "tags": [
+            "袜子",
+            "丝袜",
+            "运动袜",
+            "针织"
+          ],
+          "supplierCount": 11000,
+          "topSuppliers": [
+            {
+              "name": "浙江梦娜袜业股份有限公司",
+              "regTime": "1994-06",
+              "regCapital": "25000万",
+              "paidCapital": "25000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "Nike",
+                "Adidas",
+                "Puma"
+              ],
+              "employees": "5000+",
+              "revenue": "20亿+",
+              "contact": "0575-87039888",
+              "website": "www.mengna.com",
+              "mainCategory": "袜子/针织品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "江苏省",
+      "code": "jiangsu",
+      "color": "#43e97b",
+      "belts": [
+        {
+          "name": "苏州电子信息产业带",
+          "location": "苏州市",
+          "county": "昆山市/吴江区/工业园区",
+          "category": "电子电器",
+          "tags": [
+            "笔记本电脑",
+            "集成电路",
+            "显示器",
+            "精密制造"
+          ],
+          "supplierCount": 16000,
+          "topSuppliers": [
+            {
+              "name": "苏州固锝电子股份有限公司",
+              "regTime": "1990-11",
+              "regCapital": "72000万",
+              "paidCapital": "72000万",
+              "qualification": "上市公司",
+              "partners": [
+                "三星",
+                "LG",
+                "华为"
+              ],
+              "employees": "5000+",
+              "revenue": "25亿+",
+              "contact": "0512-65015651",
+              "website": "www.goodark.com",
+              "mainCategory": "二极管/半导体器件"
+            },
+            {
+              "name": "昆山龙腾光电股份有限公司",
+              "regTime": "2005-01",
+              "regCapital": "180000万",
+              "paidCapital": "180000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "华为"
+              ],
+              "employees": "8000+",
+              "revenue": "100亿+",
+              "contact": "0512-57628888",
+              "website": "www.infovision.com.cn",
+              "mainCategory": "液晶面板/TFT-LCD"
+            },
+            {
+              "name": "苏州东山精密制造股份有限公司",
+              "regTime": "2002-08",
+              "regCapital": "120000万",
+              "paidCapital": "120000万",
+              "qualification": "上市公司",
+              "partners": [
+                "苹果",
+                "特斯拉"
+              ],
+              "employees": "20000+",
+              "revenue": "300亿+",
+              "contact": "0512-57518888",
+              "website": "www.dsbj.com",
+              "mainCategory": "FPC/精密金属件/LED"
+            },
+            {
+              "name": "吴江长安永利有限公司",
+              "regTime": "2001-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "国家高新",
+              "partners": [
+                "索尼",
+                "松下"
+              ],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0512-63668888",
+              "website": "",
+              "mainCategory": "电子元器件/电容电阻"
+            },
+            {
+              "name": "昆山丘钛微电子科技有限公司",
+              "regTime": "2008-01",
+              "regCapital": "80000万",
+              "paidCapital": "80000万",
+              "qualification": "上市公司",
+              "partners": [
+                "华为",
+                "小米",
+                "三星"
+              ],
+              "employees": "10000+",
+              "revenue": "100亿+",
+              "contact": "0512-57690888",
+              "website": "www.qtech.com.cn",
+              "mainCategory": "摄像头模组/指纹识别"
+            },
+            {
+              "name": "苏州晶方半导体科技有限公司",
+              "regTime": "2005-06",
+              "regCapital": "44000万",
+              "paidCapital": "44000万",
+              "qualification": "上市公司",
+              "partners": [
+                "豪威",
+                "索尼"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "0512-65806888",
+              "website": "www.wlcsp.com",
+              "mainCategory": "传感器封装/晶圆级封装"
+            }
+          ]
+        },
+        {
+          "name": "南通纺织产业带",
+          "location": "南通市",
+          "county": "通州区/海门区/如东县",
+          "category": "纺织服装",
+          "tags": [
+            "家纺",
+            "床上用品",
+            "窗帘",
+            "毛巾"
+          ],
+          "supplierCount": 12500,
+          "topSuppliers": [
+            {
+              "name": "南通罗莱生活科技股份有限公司",
+              "regTime": "1992-01",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司",
+              "partners": [
+                "天猫",
+                "京东",
+                "Walmart"
+              ],
+              "employees": "6000+",
+              "revenue": "60亿+",
+              "contact": "0513-86721666",
+              "website": "www.luolai.com",
+              "mainCategory": "家纺/床上用品"
+            },
+            {
+              "name": "江苏梦百合家居科技股份有限公司",
+              "regTime": "2003-01",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司",
+              "partners": [
+                "沃尔玛",
+                "Costco"
+              ],
+              "employees": "8000+",
+              "revenue": "80亿+",
+              "contact": "0513-68981888",
+              "website": "www.mlily.com",
+              "mainCategory": "记忆棉/床垫/家纺"
+            },
+            {
+              "name": "南通富美服饰有限公司",
+              "regTime": "2000-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "江苏省名牌",
+              "partners": [
+                "Ralph Lauren",
+                "Calvin Klein"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0513-86781888",
+              "website": "",
+              "mainCategory": "服装代工/针织服装"
+            },
+            {
+              "name": "江苏斯得福纺织股份有限公司",
+              "regTime": "1999-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "上市公司",
+              "partners": [
+                "IKEA",
+                "Costco"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0513-85188888",
+              "website": "www.stdfortex.com",
+              "mainCategory": "床上用品/家纺面料"
+            },
+            {
+              "name": "南通大东有限公司",
+              "regTime": "1996-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "江苏省名牌",
+              "partners": [
+                "全球家纺市场"
+              ],
+              "employees": "5000+",
+              "revenue": "20亿+",
+              "contact": "0513-85182888",
+              "website": "",
+              "mainCategory": "被芯/枕芯/家纺"
+            }
+          ]
+        },
+        {
+          "name": "常州光伏新能源产业带",
+          "location": "常州市",
+          "county": "金坛区/武进区",
+          "category": "新能源",
+          "tags": [
+            "光伏",
+            "动力电池",
+            "新能源汽车",
+            "储能"
+          ],
+          "supplierCount": 5500,
+          "topSuppliers": [
+            {
+              "name": "天合光能股份有限公司",
+              "regTime": "1997-12",
+              "regCapital": "218000万",
+              "paidCapital": "218000万",
+              "qualification": "上市公司/全球光伏龙头",
+              "partners": [
+                "特斯拉",
+                "苹果",
+                "亚马逊"
+              ],
+              "employees": "40000+",
+              "revenue": "1000亿+",
+              "contact": "0519-85485801",
+              "website": "www.trinasolar.com",
+              "mainCategory": "光伏组件/储能系统"
+            },
+            {
+              "name": "亿晶光电科技股份有限公司",
+              "regTime": "2003-01",
+              "regCapital": "60000万",
+              "paidCapital": "60000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全球光伏市场"
+              ],
+              "employees": "5000+",
+              "revenue": "100亿+",
+              "contact": "0519-83303888",
+              "website": "www.yijinggd.com",
+              "mainCategory": "光伏电池/光伏组件"
+            },
+            {
+              "name": "常州天合光能有限公司",
+              "regTime": "2012-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "全球光伏龙头子公司",
+              "partners": [
+                "全球能源市场"
+              ],
+              "employees": "8000+",
+              "revenue": "200亿+",
+              "contact": "0519-85485801",
+              "website": "www.trinasolar.com",
+              "mainCategory": "光伏组件/跟踪支架"
+            },
+            {
+              "name": "中创新航科技股份有限公司",
+              "regTime": "2015-01",
+              "regCapital": "230000万",
+              "paidCapital": "230000万",
+              "qualification": "上市公司",
+              "partners": [
+                "广汽",
+                "小鹏",
+                "蔚来"
+              ],
+              "employees": "15000+",
+              "revenue": "250亿+",
+              "contact": "0519-85181888",
+              "website": "www.calb-tech.com",
+              "mainCategory": "动力电池/储能电池"
+            },
+            {
+              "name": "常州星宇车灯股份有限公司",
+              "regTime": "1993-01",
+              "regCapital": "46000万",
+              "paidCapital": "46000万",
+              "qualification": "上市公司",
+              "partners": [
+                "一汽",
+                "上汽",
+                "吉利"
+              ],
+              "employees": "6000+",
+              "revenue": "80亿+",
+              "contact": "0519-88300888",
+              "website": "www.xingyu.com",
+              "mainCategory": "汽车车灯/LED车灯"
+            }
+          ]
+        },
+        {
+          "name": "无锡物联网产业带",
+          "location": "无锡市",
+          "county": "滨湖区/新吴区",
+          "category": "电子电器",
+          "tags": [
+            "物联网",
+            "传感器",
+            "集成电路",
+            "智能制造"
+          ],
+          "supplierCount": 7500,
+          "topSuppliers": [
+            {
+              "name": "无锡先导智能装备股份有限公司",
+              "regTime": "2002-09",
+              "regCapital": "120000万",
+              "paidCapital": "120000万",
+              "qualification": "上市公司",
+              "partners": [
+                "特斯拉",
+                "宁德时代",
+                "松下"
+              ],
+              "employees": "12000+",
+              "revenue": "100亿+",
+              "contact": "0510-88558800",
+              "website": "www.leadintelligent.com",
+              "mainCategory": "锂电设备/光伏设备"
+            }
+          ]
+        },
+        {
+          "name": "扬州毛绒玩具产业带",
+          "location": "扬州市",
+          "county": "邗江区/高邮市",
+          "category": "玩具文具",
+          "tags": [
+            "毛绒玩具",
+            "布偶",
+            "儿童玩具",
+            "宠物玩具"
+          ],
+          "supplierCount": 4500,
+          "topSuppliers": [
+            {
+              "name": "扬州市海扬毛绒玩具有限公司",
+              "regTime": "2005-03",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "江苏省名牌",
+              "partners": [
+                "Disney",
+                "环球影城"
+              ],
+              "employees": "2000+",
+              "revenue": "5亿+",
+              "contact": "0514-87368888",
+              "website": "",
+              "mainCategory": "毛绒玩具/IP授权玩具"
+            }
+          ]
+        },
+        {
+          "name": "丹阳眼镜产业带",
+          "location": "镇江市",
+          "county": "丹阳市",
+          "category": "珠宝饰品",
+          "tags": [
+            "眼镜",
+            "镜片",
+            "光学镜头",
+            "太阳镜"
+          ],
+          "supplierCount": 6000,
+          "topSuppliers": [
+            {
+              "name": "江苏万新光学有限公司",
+              "regTime": "1973-01",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "国家高新技术企业",
+              "partners": [
+                "依视路",
+                "蔡司"
+              ],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0511-86982888",
+              "website": "www.wanxin.com.cn",
+              "mainCategory": "镜片/光学元件"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "福建省",
+      "code": "fujian",
+      "color": "#fa709a",
+      "belts": [
+        {
+          "name": "泉州鞋服产业带",
+          "location": "泉州市",
+          "county": "晋江市/石狮市/安溪县",
+          "category": "鞋类制造",
+          "tags": [
+            "运动鞋",
+            "运动服",
+            "休闲鞋",
+            "纺织"
+          ],
+          "supplierCount": 20000,
+          "topSuppliers": [
+            {
+              "name": "安踏体育用品集团有限公司",
+              "regTime": "1991-01",
+              "regCapital": "420000万",
+              "paidCapital": "420000万",
+              "qualification": "上市公司/全球运动品牌",
+              "partners": [
+                "奥运会",
+                "NBA"
+              ],
+              "employees": "60000+",
+              "revenue": "600亿+",
+              "contact": "0595-85129999",
+              "website": "www.anta.com",
+              "mainCategory": "运动鞋/运动服装"
+            },
+            {
+              "name": "特步(中国)有限公司",
+              "regTime": "2001-06",
+              "regCapital": "80000万",
+              "paidCapital": "80000万",
+              "qualification": "上市公司",
+              "partners": [
+                "NBA",
+                "马拉松赛事"
+              ],
+              "employees": "15000+",
+              "revenue": "150亿+",
+              "contact": "0595-68398888",
+              "website": "www.xtep.com",
+              "mainCategory": "运动鞋/跑步装备"
+            },
+            {
+              "name": "361度国际有限公司",
+              "regTime": "2003-01",
+              "regCapital": "55000万",
+              "paidCapital": "55000万",
+              "qualification": "上市公司",
+              "partners": [
+                "NBA",
+                "铁人三项"
+              ],
+              "employees": "8000+",
+              "revenue": "80亿+",
+              "contact": "0595-82077888",
+              "website": "www.361sport.com",
+              "mainCategory": "运动鞋/运动服装"
+            },
+            {
+              "name": "福建浔兴拉链科技股份有限公司",
+              "regTime": "1984-01",
+              "regCapital": "38000万",
+              "paidCapital": "38000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Nike",
+                "Adidas",
+                "Puma"
+              ],
+              "employees": "5000+",
+              "revenue": "25亿+",
+              "contact": "0595-85555888",
+              "website": "www.sbs-zipper.com",
+              "mainCategory": "拉链/辅料"
+            },
+            {
+              "name": "乔丹体育股份有限公司",
+              "regTime": "2000-01",
+              "regCapital": "45000万",
+              "paidCapital": "45000万",
+              "qualification": "上市公司",
+              "partners": [],
+              "employees": "6000+",
+              "revenue": "60亿+",
+              "contact": "0595-85655888",
+              "website": "www.qdsports.com",
+              "mainCategory": "运动鞋/运动装备"
+            },
+            {
+              "name": "贵人鸟股份有限公司",
+              "regTime": "2002-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "上市公司",
+              "partners": [],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0595-85755888",
+              "website": "www.grn.com.cn",
+              "mainCategory": "运动鞋/运动服"
+            },
+            {
+              "name": "福建七匹狼实业股份有限公司",
+              "regTime": "1990-01",
+              "regCapital": "68000万",
+              "paidCapital": "68000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "全国零售渠道"
+              ],
+              "employees": "5000+",
+              "revenue": "35亿+",
+              "contact": "0595-85655888",
+              "website": "www.septwolves.com",
+              "mainCategory": "男装/休闲服装"
+            },
+            {
+              "name": "福建恒安集团有限公司",
+              "regTime": "1985-01",
+              "regCapital": "200000万",
+              "paidCapital": "200000万",
+              "qualification": "上市公司/中国500强",
+              "partners": [
+                "沃尔玛",
+                "家乐福"
+              ],
+              "employees": "25000+",
+              "revenue": "250亿+",
+              "contact": "0595-22588888",
+              "website": "www.hengan.com",
+              "mainCategory": "生活用纸/卫生巾/纸尿裤"
+            },
+            {
+              "name": "九牧王股份有限公司",
+              "regTime": "1989-01",
+              "regCapital": "42000万",
+              "paidCapital": "42000万",
+              "qualification": "上市公司",
+              "partners": [
+                "天猫",
+                "京东"
+              ],
+              "employees": "5000+",
+              "revenue": "30亿+",
+              "contact": "0595-82551888",
+              "website": "www.joeone.com",
+              "mainCategory": "男裤/商务男装"
+            }
+          ]
+        },
+        {
+          "name": "莆田鞋业产业带",
+          "location": "莆田市",
+          "county": "荔城区/城厢区/涵江区",
+          "category": "鞋类制造",
+          "tags": [
+            "运动鞋代工",
+            "鞋材",
+            "鞋底",
+            "品牌鞋"
+          ],
+          "supplierCount": 16000,
+          "topSuppliers": [
+            {
+              "name": "莆田市双驰实业股份有限公司",
+              "regTime": "1986-01",
+              "regCapital": "12000万",
+              "paidCapital": "12000万",
+              "qualification": "福建省著名商标",
+              "partners": [
+                "Nike",
+                "Adidas代工体系"
+              ],
+              "employees": "5000+",
+              "revenue": "15亿+",
+              "contact": "0594-2323888",
+              "website": "www.doubles.cn",
+              "mainCategory": "运动鞋/定制鞋"
+            },
+            {
+              "name": "莆田市协丰鞋业有限公司",
+              "regTime": "2001-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "福建省名牌",
+              "partners": [
+                "Nike代工体系"
+              ],
+              "employees": "5000+",
+              "revenue": "15亿+",
+              "contact": "0594-2383888",
+              "website": "",
+              "mainCategory": "运动鞋/篮球鞋代工"
+            },
+            {
+              "name": "莆田市华峰华锦纺织科技有限公司",
+              "regTime": "2003-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "福建省名牌",
+              "partners": [
+                "Nike",
+                "Adidas"
+              ],
+              "employees": "3000+",
+              "revenue": "25亿+",
+              "contact": "0594-2323666",
+              "website": "",
+              "mainCategory": "鞋面面料/经编面料"
+            },
+            {
+              "name": "莆田市嘉源鞋业有限公司",
+              "regTime": "2006-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "莆田市名牌",
+              "partners": [
+                "跨境电商渠道"
+              ],
+              "employees": "2000+",
+              "revenue": "8亿+",
+              "contact": "0594-2383666",
+              "website": "",
+              "mainCategory": "休闲鞋/潮牌鞋"
+            },
+            {
+              "name": "莆田市泰盛鞋材有限公司",
+              "regTime": "2005-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "福建省名牌",
+              "partners": [
+                "全国鞋企"
+              ],
+              "employees": "1500+",
+              "revenue": "10亿+",
+              "contact": "0594-2323999",
+              "website": "",
+              "mainCategory": "鞋底/EVA/橡胶鞋材"
+            },
+            {
+              "name": "莆田市鑫天鸿鞋业有限公司",
+              "regTime": "2010-01",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "莆田市名牌",
+              "partners": [
+                "Amazon",
+                "TikTok Shop"
+              ],
+              "employees": "1000+",
+              "revenue": "5亿+",
+              "contact": "0594-2383999",
+              "website": "",
+              "mainCategory": "运动鞋/老爹鞋/跨境品牌"
+            }
+          ]
+        },
+        {
+          "name": "厦门卫浴产业带",
+          "location": "厦门市",
+          "county": "集美区/同安区/翔安区",
+          "category": "建材陶瓷",
+          "tags": [
+            "卫浴",
+            "水暖",
+            "淋浴房",
+            "马桶"
+          ],
+          "supplierCount": 3500,
+          "topSuppliers": [
+            {
+              "name": "厦门松霖科技股份有限公司",
+              "regTime": "1998-12",
+              "regCapital": "40000万",
+              "paidCapital": "40000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Delta Faucet",
+                "Home Depot"
+              ],
+              "employees": "4000+",
+              "revenue": "25亿+",
+              "contact": "0592-7260666",
+              "website": "www.solex.com.cn",
+              "mainCategory": "花洒/卫浴配件"
+            }
+          ]
+        },
+        {
+          "name": "德化陶瓷产业带",
+          "location": "泉州市",
+          "county": "德化县",
+          "category": "建材陶瓷",
+          "tags": [
+            "白瓷",
+            "工艺陶瓷",
+            "日用瓷",
+            "茶具"
+          ],
+          "supplierCount": 4200,
+          "topSuppliers": [
+            {
+              "name": "福建省德化县顺美集团有限公司",
+              "regTime": "1986-01",
+              "regCapital": "16000万",
+              "paidCapital": "16000万",
+              "qualification": "福建省名牌",
+              "partners": [
+                "Disney",
+                "星巴克",
+                "宜家"
+              ],
+              "employees": "3000+",
+              "revenue": "10亿+",
+              "contact": "0595-23522888",
+              "website": "www.shunmei.com",
+              "mainCategory": "陶瓷工艺品/日用瓷"
+            }
+          ]
+        },
+        {
+          "name": "南安水暖阀门产业带",
+          "location": "泉州市",
+          "county": "南安市/仑苍镇",
+          "category": "五金工具",
+          "tags": [
+            "水暖",
+            "阀门",
+            "管件",
+            "消防器材"
+          ],
+          "supplierCount": 5500,
+          "topSuppliers": [
+            {
+              "name": "九牧集团有限公司",
+              "regTime": "1990-01",
+              "regCapital": "100000万",
+              "paidCapital": "100000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "万达",
+                "恒大",
+                "碧桂园"
+              ],
+              "employees": "15000+",
+              "revenue": "100亿+",
+              "contact": "0595-86180999",
+              "website": "www.jomoo.com.cn",
+              "mainCategory": "卫浴/水暖/智能马桶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "山东省",
+      "code": "shandong",
+      "color": "#fee140",
+      "belts": [
+        {
+          "name": "青岛家电产业带",
+          "location": "青岛市",
+          "county": "黄岛区/即墨区/胶州市",
+          "category": "电子电器",
+          "tags": [
+            "白色家电",
+            "冰箱",
+            "洗衣机",
+            "空调"
+          ],
+          "supplierCount": 8000,
+          "topSuppliers": [
+            {
+              "name": "海尔集团公司",
+              "regTime": "1984-01",
+              "regCapital": "3600000万",
+              "paidCapital": "3600000万",
+              "qualification": "世界500强",
+              "partners": [
+                "全球零售渠道"
+              ],
+              "employees": "100000+",
+              "revenue": "3500亿+",
+              "contact": "0532-88939999",
+              "website": "www.haier.com",
+              "mainCategory": "冰箱/洗衣机/空调/智能家居"
+            },
+            {
+              "name": "青岛海信集团有限公司",
+              "regTime": "1969-01",
+              "regCapital": "1200000万",
+              "paidCapital": "1200000万",
+              "qualification": "世界500强",
+              "partners": [
+                "欧洲杯",
+                "世界杯"
+              ],
+              "employees": "80000+",
+              "revenue": "2000亿+",
+              "contact": "0532-83889999",
+              "website": "www.hisense.com",
+              "mainCategory": "电视/冰箱/空调/激光显示"
+            },
+            {
+              "name": "青岛澳柯玛股份有限公司",
+              "regTime": "1987-01",
+              "regCapital": "62000万",
+              "paidCapital": "62000万",
+              "qualification": "上市公司",
+              "partners": [
+                "全国经销渠道"
+              ],
+              "employees": "8000+",
+              "revenue": "80亿+",
+              "contact": "0532-87261888",
+              "website": "www.aucma.com.cn",
+              "mainCategory": "冰柜/冷链设备/空调"
+            },
+            {
+              "name": "青岛特锐德电气股份有限公司",
+              "regTime": "2004-01",
+              "regCapital": "90000万",
+              "paidCapital": "90000万",
+              "qualification": "上市公司",
+              "partners": [
+                "国家电网",
+                "南方电网"
+              ],
+              "employees": "5000+",
+              "revenue": "100亿+",
+              "contact": "0532-66752888",
+              "website": "www.tgood.com",
+              "mainCategory": "充电桩/箱式电力设备"
+            },
+            {
+              "name": "青岛双星股份有限公司",
+              "regTime": "1921-01",
+              "regCapital": "75000万",
+              "paidCapital": "75000万",
+              "qualification": "上市公司",
+              "partners": [
+                "锦湖轮胎"
+              ],
+              "employees": "8000+",
+              "revenue": "50亿+",
+              "contact": "0532-88220888",
+              "website": "www.doublestar.com.cn",
+              "mainCategory": "轮胎/橡胶制品"
+            },
+            {
+              "name": "青岛中程科技产业有限公司",
+              "regTime": "2006-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "青岛市名牌",
+              "partners": [
+                "三星",
+                "LG"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "0532-80901888",
+              "website": "",
+              "mainCategory": "家电模具/注塑件"
+            }
+          ]
+        },
+        {
+          "name": "临沂商贸物流产业带",
+          "location": "临沂市",
+          "county": "兰山区/罗庄区/河东区",
+          "category": "五金工具",
+          "tags": [
+            "小商品",
+            "五金建材",
+            "物流",
+            "板材"
+          ],
+          "supplierCount": 25000,
+          "topSuppliers": [
+            {
+              "name": "山东临工工程机械有限公司",
+              "regTime": "1972-01",
+              "regCapital": "80000万",
+              "paidCapital": "80000万",
+              "qualification": "国有控股",
+              "partners": [
+                "沃尔沃"
+              ],
+              "employees": "8000+",
+              "revenue": "200亿+",
+              "contact": "0539-8307222",
+              "website": "www.sdlg.com",
+              "mainCategory": "装载机/挖掘机/工程机械"
+            }
+          ]
+        },
+        {
+          "name": "潍坊机械装备产业带",
+          "location": "潍坊市",
+          "county": "潍城区/高密市/诸城市",
+          "category": "机械设备",
+          "tags": [
+            "发动机",
+            "工程机械",
+            "农业机械",
+            "纺织机械"
+          ],
+          "supplierCount": 7500,
+          "topSuppliers": [
+            {
+              "name": "潍柴动力股份有限公司",
+              "regTime": "1946-01",
+              "regCapital": "890000万",
+              "paidCapital": "890000万",
+              "qualification": "上市公司/世界500强",
+              "partners": [
+                "博世",
+                "大众"
+              ],
+              "employees": "80000+",
+              "revenue": "2000亿+",
+              "contact": "0536-2297068",
+              "website": "www.weichai.com",
+              "mainCategory": "柴油发动机/动力系统"
+            }
+          ]
+        },
+        {
+          "name": "曹县木制品产业带",
+          "location": "菏泽市",
+          "county": "曹县",
+          "category": "家具家居",
+          "tags": [
+            "棺木",
+            "木制工艺品",
+            "相框",
+            "汉服",
+            "演出服"
+          ],
+          "supplierCount": 6500,
+          "topSuppliers": [
+            {
+              "name": "曹县云龙木雕有限公司",
+              "regTime": "2008-03",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "山东省名牌",
+              "partners": [
+                "日本市场"
+              ],
+              "employees": "500+",
+              "revenue": "2亿+",
+              "contact": "0530-3563888",
+              "website": "",
+              "mainCategory": "木制工艺品/棺木出口"
+            }
+          ]
+        },
+        {
+          "name": "烟台葡萄酒产业带",
+          "location": "烟台市",
+          "county": "蓬莱区/龙口市",
+          "category": "食品加工",
+          "tags": [
+            "葡萄酒",
+            "水果加工",
+            "海产品",
+            "食品"
+          ],
+          "supplierCount": 3200,
+          "topSuppliers": [
+            {
+              "name": "烟台张裕葡萄酿酒股份有限公司",
+              "regTime": "1892-01",
+              "regCapital": "687000万",
+              "paidCapital": "687000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "全球经销商"
+              ],
+              "employees": "5000+",
+              "revenue": "40亿+",
+              "contact": "0535-6633658",
+              "website": "www.changyu.com.cn",
+              "mainCategory": "葡萄酒/白兰地"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "河北省",
+      "code": "hebei",
+      "color": "#a8edea",
+      "belts": [
+        {
+          "name": "白沟箱包产业带",
+          "location": "保定市",
+          "county": "白沟新城/高碑店市",
+          "category": "箱包皮具",
+          "tags": [
+            "箱包",
+            "手提包",
+            "拉杆箱",
+            "书包"
+          ],
+          "supplierCount": 12000,
+          "topSuppliers": [
+            {
+              "name": "保定白沟新城博洋箱包有限公司",
+              "regTime": "2005-08",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "河北省名牌",
+              "partners": [
+                "Samsonite供应链"
+              ],
+              "employees": "1000+",
+              "revenue": "3亿+",
+              "contact": "0312-2968888",
+              "website": "",
+              "mainCategory": "拉杆箱/商务包"
+            },
+            {
+              "name": "保定白沟新城翼翔箱包有限公司",
+              "regTime": "2008-01",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "河北省名牌",
+              "partners": [
+                "京东",
+                "天猫"
+              ],
+              "employees": "500+",
+              "revenue": "2亿+",
+              "contact": "0312-2968666",
+              "website": "",
+              "mainCategory": "书包/双肩包/旅行包"
+            },
+            {
+              "name": "白沟新城精诚箱包有限公司",
+              "regTime": "2005-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "河北省名牌",
+              "partners": [
+                "外贸客户"
+              ],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0312-2968999",
+              "website": "",
+              "mainCategory": "拉杆箱/登机箱"
+            },
+            {
+              "name": "保定鑫帅达皮具有限公司",
+              "regTime": "2010-01",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "白沟名牌",
+              "partners": [
+                "Amazon",
+                "AliExpress"
+              ],
+              "employees": "500+",
+              "revenue": "1.5亿+",
+              "contact": "0312-2968333",
+              "website": "",
+              "mainCategory": "女包/手提包/钱包"
+            },
+            {
+              "name": "白沟新城华洋箱包有限公司",
+              "regTime": "2006-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "河北省名牌",
+              "partners": [],
+              "employees": "1000+",
+              "revenue": "5亿+",
+              "contact": "0312-2968555",
+              "website": "",
+              "mainCategory": "商务箱包/电脑包"
+            },
+            {
+              "name": "河北冠宇箱包有限公司",
+              "regTime": "2012-01",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "白沟名牌",
+              "partners": [
+                "跨境电商平台"
+              ],
+              "employees": "400+",
+              "revenue": "1亿+",
+              "contact": "0312-2968777",
+              "website": "",
+              "mainCategory": "化妆包/收纳包/功能包"
+            }
+          ]
+        },
+        {
+          "name": "安平丝网产业带",
+          "location": "衡水市",
+          "county": "安平县",
+          "category": "五金工具",
+          "tags": [
+            "丝网",
+            "护栏网",
+            "过滤网",
+            "不锈钢网"
+          ],
+          "supplierCount": 8500,
+          "topSuppliers": [
+            {
+              "name": "安平县中石丝网制造有限公司",
+              "regTime": "2001-05",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "河北省名牌",
+              "partners": [],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0318-7528888",
+              "website": "",
+              "mainCategory": "丝网/护栏/过滤网"
+            }
+          ]
+        },
+        {
+          "name": "邢台自行车产业带",
+          "location": "邢台市",
+          "county": "平乡县/广宗县",
+          "category": "户外运动",
+          "tags": [
+            "自行车",
+            "童车",
+            "电动车",
+            "玩具车"
+          ],
+          "supplierCount": 5500,
+          "topSuppliers": [
+            {
+              "name": "河北恒驰橡胶有限公司",
+              "regTime": "2003-06",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "河北省高新",
+              "partners": [],
+              "employees": "1500+",
+              "revenue": "5亿+",
+              "contact": "0319-7892888",
+              "website": "",
+              "mainCategory": "自行车轮胎/橡胶制品"
+            }
+          ]
+        },
+        {
+          "name": "沧州管道装备产业带",
+          "location": "沧州市",
+          "county": "盐山县/孟村县",
+          "category": "机械设备",
+          "tags": [
+            "管道",
+            "法兰",
+            "弯头",
+            "管件"
+          ],
+          "supplierCount": 7200,
+          "topSuppliers": [
+            {
+              "name": "河北沧州渤海新区管道装备有限公司",
+              "regTime": "1998-06",
+              "regCapital": "10000万",
+              "paidCapital": "10000万",
+              "qualification": "河北省名牌",
+              "partners": [
+                "中石油",
+                "中石化"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "0317-6223888",
+              "website": "",
+              "mainCategory": "钢管/法兰/管件"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "湖南省",
+      "code": "hunan",
+      "color": "#fbc2eb",
+      "belts": [
+        {
+          "name": "邵东打火机产业带",
+          "location": "邵阳市",
+          "county": "邵东市",
+          "category": "五金工具",
+          "tags": [
+            "打火机",
+            "小五金",
+            "箱包",
+            "中药材"
+          ],
+          "supplierCount": 4500,
+          "topSuppliers": [
+            {
+              "name": "湖南东亿电气股份有限公司",
+              "regTime": "2003-01",
+              "regCapital": "25000万",
+              "paidCapital": "25000万",
+              "qualification": "上市公司",
+              "partners": [
+                "BIC",
+                "全球经销商"
+              ],
+              "employees": "3000+",
+              "revenue": "15亿+",
+              "contact": "0739-2688888",
+              "website": "www.dongyi-igniter.com",
+              "mainCategory": "打火机/点火器"
+            }
+          ]
+        },
+        {
+          "name": "醴陵陶瓷烟花产业带",
+          "location": "株洲市",
+          "county": "醴陵市",
+          "category": "建材陶瓷",
+          "tags": [
+            "釉下五彩瓷",
+            "日用瓷",
+            "电瓷",
+            "烟花"
+          ],
+          "supplierCount": 3800,
+          "topSuppliers": [
+            {
+              "name": "湖南华联瓷业股份有限公司",
+              "regTime": "1994-01",
+              "regCapital": "45000万",
+              "paidCapital": "45000万",
+              "qualification": "上市公司",
+              "partners": [
+                "宜家",
+                "沃尔玛",
+                "星巴克"
+              ],
+              "employees": "5000+",
+              "revenue": "20亿+",
+              "contact": "0731-23211888",
+              "website": "www.cnceramic.com",
+              "mainCategory": "日用陶瓷/酒店用瓷/工艺瓷"
+            }
+          ]
+        },
+        {
+          "name": "浏阳烟花产业带",
+          "location": "长沙市",
+          "county": "浏阳市",
+          "category": "玩具文具",
+          "tags": [
+            "烟花",
+            "爆竹",
+            "焰火",
+            "庆典用品"
+          ],
+          "supplierCount": 2800,
+          "topSuppliers": [
+            {
+              "name": "浏阳市华达出口花炮厂",
+              "regTime": "1988-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "湖南省名牌",
+              "partners": [
+                "Disney",
+                "全球庆典"
+              ],
+              "employees": "1500+",
+              "revenue": "5亿+",
+              "contact": "0731-83601888",
+              "website": "",
+              "mainCategory": "烟花/焰火/庆典用品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "湖北省",
+      "code": "hubei",
+      "color": "#667eea",
+      "belts": [
+        {
+          "name": "武汉光电子产业带",
+          "location": "武汉市",
+          "county": "东湖高新区/光谷",
+          "category": "电子电器",
+          "tags": [
+            "光纤",
+            "激光",
+            "显示面板",
+            "集成电路"
+          ],
+          "supplierCount": 6500,
+          "topSuppliers": [
+            {
+              "name": "武汉华星光电技术有限公司",
+              "regTime": "2014-01",
+              "regCapital": "1500000万",
+              "paidCapital": "1500000万",
+              "qualification": "国家高新",
+              "partners": [
+                "TCL",
+                "三星",
+                "华为"
+              ],
+              "employees": "15000+",
+              "revenue": "400亿+",
+              "contact": "027-59888000",
+              "website": "www.csot.com",
+              "mainCategory": "显示面板/触控模组"
+            }
+          ]
+        },
+        {
+          "name": "仙桃无纺布产业带",
+          "location": "仙桃市",
+          "county": "仙桃市/彭场镇",
+          "category": "纺织服装",
+          "tags": [
+            "无纺布",
+            "口罩",
+            "防护服",
+            "医用耗材"
+          ],
+          "supplierCount": 3500,
+          "topSuppliers": [
+            {
+              "name": "湖北恒天嘉华非织造有限公司",
+              "regTime": "2010-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "湖北省名牌",
+              "partners": [
+                "全球医疗供应链"
+              ],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "0728-3321888",
+              "website": "",
+              "mainCategory": "无纺布/医用防护"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "四川省",
+      "code": "sichuan",
+      "color": "#f093fb",
+      "belts": [
+        {
+          "name": "成都电子信息产业带",
+          "location": "成都市",
+          "county": "高新区/双流区/郫都区",
+          "category": "电子电器",
+          "tags": [
+            "集成电路",
+            "显示器件",
+            "电子元器件",
+            "软件"
+          ],
+          "supplierCount": 8500,
+          "topSuppliers": [
+            {
+              "name": "成都京东方光电科技有限公司",
+              "regTime": "2009-10",
+              "regCapital": "2200000万",
+              "paidCapital": "2200000万",
+              "qualification": "国家高新",
+              "partners": [
+                "苹果",
+                "华为",
+                "三星"
+              ],
+              "employees": "20000+",
+              "revenue": "500亿+",
+              "contact": "028-86118000",
+              "website": "www.boe.com",
+              "mainCategory": "显示面板/柔性屏"
+            }
+          ]
+        },
+        {
+          "name": "自贡彩灯产业带",
+          "location": "自贡市",
+          "county": "自流井区/大安区",
+          "category": "灯具照明",
+          "tags": [
+            "彩灯",
+            "花灯",
+            "灯会",
+            "景观照明"
+          ],
+          "supplierCount": 1800,
+          "topSuppliers": [
+            {
+              "name": "四川省自贡市龙腾文化艺术有限公司",
+              "regTime": "2005-06",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "四川省名牌",
+              "partners": [
+                "全球灯会"
+              ],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0813-8100888",
+              "website": "",
+              "mainCategory": "彩灯制作/灯会策划"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "安徽省",
+      "code": "anhui",
+      "color": "#ffecd2",
+      "belts": [
+        {
+          "name": "合肥家电产业带",
+          "location": "合肥市",
+          "county": "经开区/肥西县/长丰县",
+          "category": "电子电器",
+          "tags": [
+            "冰箱",
+            "洗衣机",
+            "空调",
+            "显示器"
+          ],
+          "supplierCount": 6800,
+          "topSuppliers": [
+            {
+              "name": "合肥美的电冰箱有限公司",
+              "regTime": "2008-01",
+              "regCapital": "35000万",
+              "paidCapital": "35000万",
+              "qualification": "世界500强子公司",
+              "partners": [
+                "美的集团"
+              ],
+              "employees": "8000+",
+              "revenue": "200亿+",
+              "contact": "0551-63839888",
+              "website": "www.midea.com",
+              "mainCategory": "冰箱/洗衣机/厨电"
+            }
+          ]
+        },
+        {
+          "name": "芜湖汽车零部件产业带",
+          "location": "芜湖市",
+          "county": "弋江区/经开区/鸠江区",
+          "category": "汽摩配件",
+          "tags": [
+            "汽车零部件",
+            "发动机",
+            "变速箱",
+            "新能源汽车"
+          ],
+          "supplierCount": 5200,
+          "topSuppliers": [
+            {
+              "name": "奇瑞汽车股份有限公司",
+              "regTime": "1997-01",
+              "regCapital": "410000万",
+              "paidCapital": "410000万",
+              "qualification": "国家高新",
+              "partners": [
+                "全球经销商"
+              ],
+              "employees": "40000+",
+              "revenue": "2000亿+",
+              "contact": "0553-7861888",
+              "website": "www.cheryinternational.com",
+              "mainCategory": "汽车/发动机/新能源"
+            }
+          ]
+        },
+        {
+          "name": "阜阳人发制品产业带",
+          "location": "阜阳市",
+          "county": "太和县",
+          "category": "美妆日化",
+          "tags": [
+            "假发",
+            "人发制品",
+            "假睫毛",
+            "发套"
+          ],
+          "supplierCount": 3200,
+          "topSuppliers": [
+            {
+              "name": "安徽瑞贝卡发制品有限公司",
+              "regTime": "2010-06",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "安徽省名牌",
+              "partners": [
+                "非洲/欧美市场"
+              ],
+              "employees": "2000+",
+              "revenue": "5亿+",
+              "contact": "0558-8630888",
+              "website": "",
+              "mainCategory": "假发/发套/人发制品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "河南省",
+      "code": "henan",
+      "color": "#d4fc79",
+      "belts": [
+        {
+          "name": "许昌假发产业带",
+          "location": "许昌市",
+          "county": "禹州市/鄢陵县",
+          "category": "美妆日化",
+          "tags": [
+            "假发",
+            "发制品",
+            "假睫毛",
+            "美发工具"
+          ],
+          "supplierCount": 5000,
+          "topSuppliers": [
+            {
+              "name": "河南瑞贝卡发制品股份有限公司",
+              "regTime": "1990-01",
+              "regCapital": "92000万",
+              "paidCapital": "92000万",
+              "qualification": "上市公司/全球假发龙头",
+              "partners": [
+                "全球假发市场/非洲市场"
+              ],
+              "employees": "15000+",
+              "revenue": "20亿+",
+              "contact": "0374-2710888",
+              "website": "www.rebecca.com.cn",
+              "mainCategory": "假发/发套/化纤发"
+            },
+            {
+              "name": "许昌恒源发制品有限公司",
+              "regTime": "2001-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "河南省名牌",
+              "partners": [
+                "非洲/北美市场"
+              ],
+              "employees": "3000+",
+              "revenue": "8亿+",
+              "contact": "0374-2729888",
+              "website": "",
+              "mainCategory": "假发/发套/编织发"
+            },
+            {
+              "name": "许昌龙正美发制品有限公司",
+              "regTime": "2005-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "河南省名牌",
+              "partners": [
+                "Amazon",
+                "eBay"
+              ],
+              "employees": "2000+",
+              "revenue": "5亿+",
+              "contact": "0374-2735888",
+              "website": "",
+              "mainCategory": "假发/化纤发/接发"
+            },
+            {
+              "name": "许昌天美发制品有限公司",
+              "regTime": "2008-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "许昌市名牌",
+              "partners": [
+                "非洲市场"
+              ],
+              "employees": "1500+",
+              "revenue": "3亿+",
+              "contact": "0374-2733888",
+              "website": "",
+              "mainCategory": "假发/发块/男士假发"
+            },
+            {
+              "name": "河南奥源实业有限公司",
+              "regTime": "2003-01",
+              "regCapital": "10000万",
+              "paidCapital": "10000万",
+              "qualification": "河南省名牌",
+              "partners": [
+                "全球假发市场"
+              ],
+              "employees": "2500+",
+              "revenue": "6亿+",
+              "contact": "0374-2738888",
+              "website": "",
+              "mainCategory": "人发制品/化纤假发"
+            }
+          ]
+        },
+        {
+          "name": "郑州速冻食品产业带",
+          "location": "郑州市",
+          "county": "惠济区/金水区/新郑市",
+          "category": "食品加工",
+          "tags": [
+            "速冻食品",
+            "面食",
+            "调味品",
+            "肉制品"
+          ],
+          "supplierCount": 4200,
+          "topSuppliers": [
+            {
+              "name": "郑州三全食品股份有限公司",
+              "regTime": "1992-01",
+              "regCapital": "86000万",
+              "paidCapital": "86000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "全国超市渠道"
+              ],
+              "employees": "15000+",
+              "revenue": "70亿+",
+              "contact": "0371-55583777",
+              "website": "www.sanquan.com",
+              "mainCategory": "速冻水饺/汤圆/面点"
+            }
+          ]
+        },
+        {
+          "name": "南阳艾草产业带",
+          "location": "南阳市",
+          "county": "桐柏县/南召县",
+          "category": "医疗器械",
+          "tags": [
+            "艾草",
+            "艾条",
+            "艾灸",
+            "中药材"
+          ],
+          "supplierCount": 2800,
+          "topSuppliers": [
+            {
+              "name": "南阳仙草药业有限公司",
+              "regTime": "2008-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "河南省名牌",
+              "partners": [
+                "天猫/京东"
+              ],
+              "employees": "500+",
+              "revenue": "2亿+",
+              "contact": "0377-6128888",
+              "website": "",
+              "mainCategory": "艾条/艾灸/中药材"
+            }
+          ]
+        },
+        {
+          "name": "长垣起重机产业带",
+          "location": "新乡市",
+          "county": "长垣市",
+          "category": "机械设备",
+          "tags": [
+            "起重机",
+            "卫材",
+            "防腐蚀设备"
+          ],
+          "supplierCount": 3500,
+          "topSuppliers": [
+            {
+              "name": "河南省矿山起重机有限公司",
+              "regTime": "1980-01",
+              "regCapital": "10000万",
+              "paidCapital": "10000万",
+              "qualification": "河南省名牌",
+              "partners": [
+                "中铁",
+                "中建"
+              ],
+              "employees": "3000+",
+              "revenue": "30亿+",
+              "contact": "0373-8710888",
+              "website": "www.kuangshanqzj.com",
+              "mainCategory": "起重机/门式起重机"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "辽宁省",
+      "code": "liaoning",
+      "color": "#84fab0",
+      "belts": [
+        {
+          "name": "大连装备制造产业带",
+          "location": "大连市",
+          "county": "金普新区/甘井子区/旅顺口区",
+          "category": "机械设备",
+          "tags": [
+            "船舶",
+            "机床",
+            "轴承",
+            "模具"
+          ],
+          "supplierCount": 5500,
+          "topSuppliers": [
+            {
+              "name": "大连机床集团有限责任公司",
+              "regTime": "1948-01",
+              "regCapital": "120000万",
+              "paidCapital": "120000万",
+              "qualification": "国有企业",
+              "partners": [
+                "一汽",
+                "航空航天"
+              ],
+              "employees": "8000+",
+              "revenue": "80亿+",
+              "contact": "0411-86624688",
+              "website": "www.dmtg.com",
+              "mainCategory": "数控机床/加工中心"
+            }
+          ]
+        },
+        {
+          "name": "鞍山钢铁产业带",
+          "location": "鞍山市",
+          "county": "铁西区/立山区",
+          "category": "化工原料",
+          "tags": [
+            "钢铁",
+            "矿石",
+            "金属冶炼"
+          ],
+          "supplierCount": 3200,
+          "topSuppliers": [
+            {
+              "name": "鞍钢股份有限公司",
+              "regTime": "1948-01",
+              "regCapital": "7700000万",
+              "paidCapital": "7700000万",
+              "qualification": "上市公司/央企",
+              "partners": [
+                "全球钢铁市场"
+              ],
+              "employees": "50000+",
+              "revenue": "1200亿+",
+              "contact": "0412-6721114",
+              "website": "www.ansteel.com.cn",
+              "mainCategory": "钢材/特种钢/热轧板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "吉林省",
+      "code": "jilin",
+      "color": "#96e6a1",
+      "belts": [
+        {
+          "name": "长春汽车产业带",
+          "location": "长春市",
+          "county": "绿园区/汽开区",
+          "category": "汽摩配件",
+          "tags": [
+            "汽车",
+            "汽车零部件",
+            "发动机",
+            "变速箱"
+          ],
+          "supplierCount": 4500,
+          "topSuppliers": [
+            {
+              "name": "中国第一汽车集团有限公司",
+              "regTime": "1953-07",
+              "regCapital": "59500000万",
+              "paidCapital": "59500000万",
+              "qualification": "央企/世界500强",
+              "partners": [
+                "大众",
+                "丰田",
+                "奥迪"
+              ],
+              "employees": "120000+",
+              "revenue": "6000亿+",
+              "contact": "0431-85902222",
+              "website": "www.faw.com.cn",
+              "mainCategory": "轿车/商用车/新能源"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "黑龙江省",
+      "code": "heilongjiang",
+      "color": "#c3cfe2",
+      "belts": [
+        {
+          "name": "哈尔滨装备制造产业带",
+          "location": "哈尔滨市",
+          "county": "平房区/香坊区/南岗区",
+          "category": "机械设备",
+          "tags": [
+            "电站设备",
+            "航空航天",
+            "轴承",
+            "量具"
+          ],
+          "supplierCount": 3800,
+          "topSuppliers": [
+            {
+              "name": "哈尔滨电气集团有限公司",
+              "regTime": "1951-01",
+              "regCapital": "560000万",
+              "paidCapital": "560000万",
+              "qualification": "央企",
+              "partners": [
+                "国家电网",
+                "三峡集团"
+              ],
+              "employees": "20000+",
+              "revenue": "300亿+",
+              "contact": "0451-82135888",
+              "website": "www.hpec.com",
+              "mainCategory": "发电设备/电站锅炉/汽轮机"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "江西省",
+      "code": "jiangxi",
+      "color": "#f5576c",
+      "belts": [
+        {
+          "name": "赣州稀土产业带",
+          "location": "赣州市",
+          "county": "赣县区/龙南市/定南县",
+          "category": "化工原料",
+          "tags": [
+            "稀土",
+            "钨",
+            "有色金属",
+            "永磁材料"
+          ],
+          "supplierCount": 2800,
+          "topSuppliers": [
+            {
+              "name": "中国南方稀土集团有限公司",
+              "regTime": "2015-01",
+              "regCapital": "360000万",
+              "paidCapital": "360000万",
+              "qualification": "央企/国有",
+              "partners": [
+                "全球稀土市场"
+              ],
+              "employees": "10000+",
+              "revenue": "200亿+",
+              "contact": "0797-8271888",
+              "website": "www.csreg.com.cn",
+              "mainCategory": "稀土矿/稀土氧化物/永磁材料"
+            }
+          ]
+        },
+        {
+          "name": "景德镇陶瓷产业带",
+          "location": "景德镇市",
+          "county": "珠山区/昌江区/浮梁县",
+          "category": "建材陶瓷",
+          "tags": [
+            "艺术陶瓷",
+            "日用陶瓷",
+            "工业陶瓷",
+            "古窑"
+          ],
+          "supplierCount": 5500,
+          "topSuppliers": [
+            {
+              "name": "景德镇市红叶陶瓷有限公司",
+              "regTime": "1996-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "国宴用瓷"
+              ],
+              "employees": "3000+",
+              "revenue": "8亿+",
+              "contact": "0798-8525888",
+              "website": "www.jdzhonghua.com",
+              "mainCategory": "高端日用瓷/国宴用瓷/艺术瓷"
+            },
+            {
+              "name": "景德镇市望龙陶瓷有限公司",
+              "regTime": "2000-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "江西省名牌",
+              "partners": [
+                "天猫",
+                "京东"
+              ],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0798-8525666",
+              "website": "",
+              "mainCategory": "日用陶瓷/茶具"
+            },
+            {
+              "name": "景德镇法蓝瓷实业有限公司",
+              "regTime": "2002-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "江西省名牌",
+              "partners": [
+                "全球礼品市场"
+              ],
+              "employees": "1500+",
+              "revenue": "5亿+",
+              "contact": "0798-8525999",
+              "website": "www.franzcollection.com.cn",
+              "mainCategory": "艺术瓷/礼品瓷/收藏瓷"
+            },
+            {
+              "name": "景德镇市金品陶瓷有限公司",
+              "regTime": "2005-01",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "景德镇名牌",
+              "partners": [],
+              "employees": "500+",
+              "revenue": "2亿+",
+              "contact": "0798-8525333",
+              "website": "",
+              "mainCategory": "仿古瓷/青花瓷/手工瓷"
+            },
+            {
+              "name": "景德镇市曙光瓷厂",
+              "regTime": "1958-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "老字号",
+              "partners": [
+                "国宴/国礼"
+              ],
+              "employees": "800+",
+              "revenue": "3亿+",
+              "contact": "0798-8525111",
+              "website": "",
+              "mainCategory": "高端日用瓷/国宴瓷"
+            }
+          ]
+        },
+        {
+          "name": "南康家具产业带",
+          "location": "赣州市",
+          "county": "南康区",
+          "category": "家具家居",
+          "tags": [
+            "实木家具",
+            "板式家具",
+            "办公家具",
+            "儿童家具"
+          ],
+          "supplierCount": 8500,
+          "topSuppliers": [
+            {
+              "name": "赣州市南康区汇森家居有限公司",
+              "regTime": "2010-01",
+              "regCapital": "10000万",
+              "paidCapital": "10000万",
+              "qualification": "江西省名牌",
+              "partners": [
+                "天猫",
+                "京东"
+              ],
+              "employees": "2000+",
+              "revenue": "8亿+",
+              "contact": "0797-6685888",
+              "website": "",
+              "mainCategory": "实木家具/板式家具"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "广西壮族自治区",
+      "code": "guangxi",
+      "color": "#fda085",
+      "belts": [
+        {
+          "name": "玉林中药材产业带",
+          "location": "玉林市",
+          "county": "玉州区/北流市",
+          "category": "医疗器械",
+          "tags": [
+            "中药材",
+            "南药",
+            "香料",
+            "八角"
+          ],
+          "supplierCount": 2500,
+          "topSuppliers": [
+            {
+              "name": "玉林市中药材专业市场有限公司",
+              "regTime": "1998-01",
+              "regCapital": "5000万",
+              "paidCapital": "5000万",
+              "qualification": "广西名牌",
+              "partners": [],
+              "employees": "500+",
+              "revenue": "3亿+",
+              "contact": "0775-2828888",
+              "website": "",
+              "mainCategory": "中药材/香料/南药"
+            }
+          ]
+        },
+        {
+          "name": "梧州人工宝石产业带",
+          "location": "梧州市",
+          "county": "万秀区/长洲区",
+          "category": "珠宝饰品",
+          "tags": [
+            "人工宝石",
+            "水晶",
+            "锆石",
+            "饰品"
+          ],
+          "supplierCount": 3500,
+          "topSuppliers": [
+            {
+              "name": "梧州市旺盛宝石有限公司",
+              "regTime": "2002-05",
+              "regCapital": "3000万",
+              "paidCapital": "3000万",
+              "qualification": "广西名牌",
+              "partners": [
+                "全球珠宝市场"
+              ],
+              "employees": "1000+",
+              "revenue": "5亿+",
+              "contact": "0774-3828888",
+              "website": "",
+              "mainCategory": "人工宝石/锆石/水晶切割"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "云南省",
+      "code": "yunnan",
+      "color": "#a18cd1",
+      "belts": [
+        {
+          "name": "普洱茶产业带",
+          "location": "普洱市",
+          "county": "思茅区/宁洱县/景东县",
+          "category": "食品加工",
+          "tags": [
+            "普洱茶",
+            "茶叶",
+            "古树茶",
+            "滇红"
+          ],
+          "supplierCount": 4500,
+          "topSuppliers": [
+            {
+              "name": "云南大益茶业集团有限公司",
+              "regTime": "2004-01",
+              "regCapital": "30000万",
+              "paidCapital": "30000万",
+              "qualification": "中国驰名商标",
+              "partners": [
+                "全球茶叶市场"
+              ],
+              "employees": "5000+",
+              "revenue": "50亿+",
+              "contact": "0871-63178888",
+              "website": "www.taetea.com",
+              "mainCategory": "普洱茶/滇红茶"
+            }
+          ]
+        },
+        {
+          "name": "瑞丽珠宝产业带",
+          "location": "德宏州",
+          "county": "瑞丽市",
+          "category": "珠宝饰品",
+          "tags": [
+            "翡翠",
+            "玉石",
+            "珠宝",
+            "宝石"
+          ],
+          "supplierCount": 3200,
+          "topSuppliers": [
+            {
+              "name": "瑞丽市德龙珠宝有限公司",
+              "regTime": "2000-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "云南省名牌",
+              "partners": [],
+              "employees": "500+",
+              "revenue": "5亿+",
+              "contact": "0692-4129888",
+              "website": "",
+              "mainCategory": "翡翠原石/玉石加工"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "贵州省",
+      "code": "guizhou",
+      "color": "#fbc2eb",
+      "belts": [
+        {
+          "name": "仁怀白酒产业带",
+          "location": "遵义市",
+          "county": "仁怀市/茅台镇",
+          "category": "食品加工",
+          "tags": [
+            "白酒",
+            "酱香酒",
+            "茅台",
+            "酿酒"
+          ],
+          "supplierCount": 2500,
+          "topSuppliers": [
+            {
+              "name": "贵州茅台酒股份有限公司",
+              "regTime": "1999-11",
+              "regCapital": "1256000万",
+              "paidCapital": "1256000万",
+              "qualification": "上市公司/世界500强",
+              "partners": [
+                "全球高端消费品市场"
+              ],
+              "employees": "30000+",
+              "revenue": "1500亿+",
+              "contact": "0851-22386888",
+              "website": "www.moutaichina.com",
+              "mainCategory": "茅台酒/酱香白酒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "陕西省",
+      "code": "shaanxi",
+      "color": "#e0c3fc",
+      "belts": [
+        {
+          "name": "西安航空航天产业带",
+          "location": "西安市",
+          "county": "阎良区/高新区/航天基地",
+          "category": "机械设备",
+          "tags": [
+            "航空",
+            "航天",
+            "飞机制造",
+            "卫星"
+          ],
+          "supplierCount": 3200,
+          "topSuppliers": [
+            {
+              "name": "中航西安飞机工业集团有限公司",
+              "regTime": "1958-01",
+              "regCapital": "450000万",
+              "paidCapital": "450000万",
+              "qualification": "央企/军工",
+              "partners": [
+                "波音",
+                "空客供应链"
+              ],
+              "employees": "25000+",
+              "revenue": "400亿+",
+              "contact": "029-86832888",
+              "website": "www.xac.com.cn",
+              "mainCategory": "飞机制造/航空零部件"
+            }
+          ]
+        },
+        {
+          "name": "宝鸡钛产业带",
+          "location": "宝鸡市",
+          "county": "渭滨区/高新区",
+          "category": "化工原料",
+          "tags": [
+            "钛",
+            "钛合金",
+            "有色金属",
+            "特种材料"
+          ],
+          "supplierCount": 1800,
+          "topSuppliers": [
+            {
+              "name": "宝鸡钛业股份有限公司",
+              "regTime": "1965-01",
+              "regCapital": "95000万",
+              "paidCapital": "95000万",
+              "qualification": "上市公司",
+              "partners": [
+                "波音",
+                "空客",
+                "航天系统"
+              ],
+              "employees": "5000+",
+              "revenue": "100亿+",
+              "contact": "0917-3381888",
+              "website": "www.baoti.com",
+              "mainCategory": "钛材/钛合金/有色金属"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "甘肃省",
+      "code": "gansu",
+      "color": "#b8cbb8",
+      "belts": [
+        {
+          "name": "兰州石化产业带",
+          "location": "兰州市",
+          "county": "西固区/红古区",
+          "category": "化工原料",
+          "tags": [
+            "石化",
+            "炼油",
+            "化工",
+            "新材料"
+          ],
+          "supplierCount": 2200,
+          "topSuppliers": [
+            {
+              "name": "兰州石化公司",
+              "regTime": "1958-01",
+              "regCapital": "800000万",
+              "paidCapital": "800000万",
+              "qualification": "央企子公司",
+              "partners": [
+                "中石油"
+              ],
+              "employees": "20000+",
+              "revenue": "500亿+",
+              "contact": "0931-7932888",
+              "website": "",
+              "mainCategory": "石油炼制/化工产品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重庆市",
+      "code": "chongqing",
+      "color": "#ff9a9e",
+      "belts": [
+        {
+          "name": "重庆汽摩产业带",
+          "location": "重庆市",
+          "county": "两江新区/渝北区/璧山区",
+          "category": "汽摩配件",
+          "tags": [
+            "汽车",
+            "摩托车",
+            "汽车零部件",
+            "变速器"
+          ],
+          "supplierCount": 7500,
+          "topSuppliers": [
+            {
+              "name": "重庆长安汽车股份有限公司",
+              "regTime": "1996-10",
+              "regCapital": "510000万",
+              "paidCapital": "510000万",
+              "qualification": "上市公司/央企子公司",
+              "partners": [
+                "福特",
+                "马自达",
+                "PSA"
+              ],
+              "employees": "45000+",
+              "revenue": "1500亿+",
+              "contact": "023-67596000",
+              "website": "www.changan.com.cn",
+              "mainCategory": "乘用车/新能源汽车"
+            },
+            {
+              "name": "重庆小康工业集团股份有限公司",
+              "regTime": "1986-01",
+              "regCapital": "120000万",
+              "paidCapital": "120000万",
+              "qualification": "上市公司",
+              "partners": [
+                "华为"
+              ],
+              "employees": "15000+",
+              "revenue": "300亿+",
+              "contact": "023-67591888",
+              "website": "www.dfsk.com",
+              "mainCategory": "新能源汽车/赛力斯"
+            },
+            {
+              "name": "重庆隆鑫通用动力股份有限公司",
+              "regTime": "1993-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "上市公司",
+              "partners": [
+                "BMW摩托"
+              ],
+              "employees": "10000+",
+              "revenue": "100亿+",
+              "contact": "023-68608888",
+              "website": "www.loncin.com",
+              "mainCategory": "摩托车/发动机/通机"
+            },
+            {
+              "name": "重庆宗申动力机械股份有限公司",
+              "regTime": "1992-01",
+              "regCapital": "90000万",
+              "paidCapital": "90000万",
+              "qualification": "上市公司",
+              "partners": [
+                "Piaggio",
+                "比亚乔"
+              ],
+              "employees": "8000+",
+              "revenue": "80亿+",
+              "contact": "023-66388888",
+              "website": "www.zongshenmotor.com",
+              "mainCategory": "摩托车发动机/通用动力"
+            },
+            {
+              "name": "中国重汽集团重庆燃油喷射系统有限公司",
+              "regTime": "2001-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "央企子公司",
+              "partners": [
+                "中国重汽",
+                "潍柴"
+              ],
+              "employees": "2000+",
+              "revenue": "15亿+",
+              "contact": "023-67988888",
+              "website": "",
+              "mainCategory": "柴油燃油喷射/汽车零部件"
+            },
+            {
+              "name": "重庆万力联兴实业有限公司",
+              "regTime": "2005-01",
+              "regCapital": "20000万",
+              "paidCapital": "20000万",
+              "qualification": "重庆市名牌",
+              "partners": [
+                "长安",
+                "力帆"
+              ],
+              "employees": "3000+",
+              "revenue": "20亿+",
+              "contact": "023-68118888",
+              "website": "",
+              "mainCategory": "汽车内饰/方向盘/变速操纵"
+            }
+          ]
+        },
+        {
+          "name": "重庆笔电产业带",
+          "location": "重庆市",
+          "county": "西永微电园/两路寸滩保税区",
+          "category": "电子电器",
+          "tags": [
+            "笔记本电脑",
+            "平板",
+            "电子元器件",
+            "智能终端"
+          ],
+          "supplierCount": 4500,
+          "topSuppliers": [
+            {
+              "name": "广达重庆制造城",
+              "regTime": "2009-01",
+              "regCapital": "150000万",
+              "paidCapital": "150000万",
+              "qualification": "外资企业",
+              "partners": [
+                "HP",
+                "Dell",
+                "苹果"
+              ],
+              "employees": "30000+",
+              "revenue": "800亿+",
+              "contact": "023-68428888",
+              "website": "",
+              "mainCategory": "笔记本电脑/服务器代工"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "天津市",
+      "code": "tianjin",
+      "color": "#89f7fe",
+      "belts": [
+        {
+          "name": "天津自行车产业带",
+          "location": "天津市",
+          "county": "静海区/武清区",
+          "category": "户外运动",
+          "tags": [
+            "自行车",
+            "电动车",
+            "运动器材"
+          ],
+          "supplierCount": 4200,
+          "topSuppliers": [
+            {
+              "name": "天津富士达自行车有限公司",
+              "regTime": "1992-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "天津市名牌",
+              "partners": [
+                "全球经销商",
+                "共享单车"
+              ],
+              "employees": "5000+",
+              "revenue": "30亿+",
+              "contact": "022-28577888",
+              "website": "www.fujita.com.cn",
+              "mainCategory": "自行车/电动车"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "上海市",
+      "code": "shanghai",
+      "color": "#66a6ff",
+      "belts": [
+        {
+          "name": "上海集成电路产业带",
+          "location": "上海市",
+          "county": "浦东新区/张江高科/嘉定区",
+          "category": "电子电器",
+          "tags": [
+            "集成电路",
+            "芯片设计",
+            "半导体设备",
+            "EDA"
+          ],
+          "supplierCount": 5500,
+          "topSuppliers": [
+            {
+              "name": "中芯国际集成电路制造有限公司",
+              "regTime": "2000-04",
+              "regCapital": "7200000万",
+              "paidCapital": "7200000万",
+              "qualification": "上市公司",
+              "partners": [
+                "高通",
+                "华为海思"
+              ],
+              "employees": "20000+",
+              "revenue": "500亿+",
+              "contact": "021-38618888",
+              "website": "www.smics.com",
+              "mainCategory": "芯片代工/集成电路制造"
+            }
+          ]
+        },
+        {
+          "name": "上海生物医药产业带",
+          "location": "上海市",
+          "county": "浦东新区/张江/奉贤区",
+          "category": "医疗器械",
+          "tags": [
+            "生物医药",
+            "医疗器械",
+            "体外诊断",
+            "创新药"
+          ],
+          "supplierCount": 4200,
+          "topSuppliers": [
+            {
+              "name": "上海联影医疗科技有限公司",
+              "regTime": "2011-03",
+              "regCapital": "200000万",
+              "paidCapital": "200000万",
+              "qualification": "上市公司/国家高新",
+              "partners": [
+                "全国医院体系"
+              ],
+              "employees": "10000+",
+              "revenue": "100亿+",
+              "contact": "021-67076888",
+              "website": "www.united-imaging.com",
+              "mainCategory": "CT/MRI/PET-CT/医疗影像"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "北京市",
+      "code": "beijing",
+      "color": "#cd9cf2",
+      "belts": [
+        {
+          "name": "北京人工智能产业带",
+          "location": "北京市",
+          "county": "海淀区/中关村/亦庄",
+          "category": "电子电器",
+          "tags": [
+            "人工智能",
+            "大数据",
+            "云计算",
+            "芯片"
+          ],
+          "supplierCount": 6800,
+          "topSuppliers": [
+            {
+              "name": "北京百度网讯科技有限公司",
+              "regTime": "2001-06",
+              "regCapital": "1100000万",
+              "paidCapital": "1100000万",
+              "qualification": "上市公司/全球AI领军",
+              "partners": [
+                "全球合作伙伴"
+              ],
+              "employees": "40000+",
+              "revenue": "1300亿+",
+              "contact": "010-59922888",
+              "website": "www.baidu.com",
+              "mainCategory": "搜索引擎/AI/自动驾驶/云计算"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "山西省",
+      "code": "shanxi",
+      "color": "#ffd89b",
+      "belts": [
+        {
+          "name": "太原不锈钢产业带",
+          "location": "太原市",
+          "county": "尖草坪区/不锈钢园区",
+          "category": "化工原料",
+          "tags": [
+            "不锈钢",
+            "特钢",
+            "钢材深加工"
+          ],
+          "supplierCount": 2800,
+          "topSuppliers": [
+            {
+              "name": "山西太钢不锈钢股份有限公司",
+              "regTime": "1934-01",
+              "regCapital": "560000万",
+              "paidCapital": "560000万",
+              "qualification": "上市公司/全球不锈钢龙头",
+              "partners": [
+                "全球钢铁市场"
+              ],
+              "employees": "30000+",
+              "revenue": "800亿+",
+              "contact": "0351-6113888",
+              "website": "www.tisco.com.cn",
+              "mainCategory": "不锈钢/特种钢/硅钢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "内蒙古自治区",
+      "code": "neimenggu",
+      "color": "#d5d5d5",
+      "belts": [
+        {
+          "name": "鄂尔多斯羊绒产业带",
+          "location": "鄂尔多斯市",
+          "county": "东胜区/伊金霍洛旗",
+          "category": "纺织服装",
+          "tags": [
+            "羊绒",
+            "羊绒衫",
+            "羊毛制品",
+            "纺织"
+          ],
+          "supplierCount": 2500,
+          "topSuppliers": [
+            {
+              "name": "内蒙古鄂尔多斯资源股份有限公司",
+              "regTime": "1979-01",
+              "regCapital": "120000万",
+              "paidCapital": "120000万",
+              "qualification": "上市公司/中国驰名商标",
+              "partners": [
+                "全球奢侈品市场"
+              ],
+              "employees": "15000+",
+              "revenue": "100亿+",
+              "contact": "0477-8588888",
+              "website": "www.erdos.com",
+              "mainCategory": "羊绒制品/羊绒衫"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "宁夏回族自治区",
+      "code": "ningxia",
+      "color": "#f6d365",
+      "belts": [
+        {
+          "name": "贺兰山东麓葡萄酒产业带",
+          "location": "银川市",
+          "county": "贺兰县/永宁县/青铜峡市",
+          "category": "食品加工",
+          "tags": [
+            "葡萄酒",
+            "酿酒",
+            "有机葡萄"
+          ],
+          "supplierCount": 1200,
+          "topSuppliers": [
+            {
+              "name": "宁夏张裕摩塞尔十五世酒庄",
+              "regTime": "2010-01",
+              "regCapital": "15000万",
+              "paidCapital": "15000万",
+              "qualification": "宁夏名牌",
+              "partners": [
+                "全球葡萄酒市场"
+              ],
+              "employees": "300+",
+              "revenue": "3亿+",
+              "contact": "0951-8520888",
+              "website": "",
+              "mainCategory": "葡萄酒/酒庄旅游"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "青海省",
+      "code": "qinghai",
+      "color": "#b8d3fe",
+      "belts": [
+        {
+          "name": "格尔木锂盐产业带",
+          "location": "海西州",
+          "county": "格尔木市",
+          "category": "化工原料",
+          "tags": [
+            "锂",
+            "盐湖",
+            "钾肥",
+            "锂电池材料"
+          ],
+          "supplierCount": 800,
+          "topSuppliers": [
+            {
+              "name": "青海盐湖工业股份有限公司",
+              "regTime": "1997-01",
+              "regCapital": "270000万",
+              "paidCapital": "270000万",
+              "qualification": "上市公司",
+              "partners": [
+                "宁德时代",
+                "比亚迪"
+              ],
+              "employees": "8000+",
+              "revenue": "300亿+",
+              "contact": "0979-8492888",
+              "website": "www.qhyhgy.com",
+              "mainCategory": "钾肥/碳酸锂/盐化工"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新疆维吾尔自治区",
+      "code": "xinjiang",
+      "color": "#e8d5b7",
+      "belts": [
+        {
+          "name": "新疆棉纺产业带",
+          "location": "阿克苏地区",
+          "county": "阿克苏市/库车市/沙雅县",
+          "category": "纺织服装",
+          "tags": [
+            "棉花",
+            "棉纱",
+            "棉纺织",
+            "长绒棉"
+          ],
+          "supplierCount": 2800,
+          "topSuppliers": [
+            {
+              "name": "新疆利华棉业股份有限公司",
+              "regTime": "2003-01",
+              "regCapital": "50000万",
+              "paidCapital": "50000万",
+              "qualification": "新疆名牌",
+              "partners": [
+                "全国纺织企业"
+              ],
+              "employees": "5000+",
+              "revenue": "30亿+",
+              "contact": "0997-2128888",
+              "website": "",
+              "mainCategory": "棉花收购/棉纱/棉纺织"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "西藏自治区",
+      "code": "xizang",
+      "color": "#e6ccb2",
+      "belts": [
+        {
+          "name": "拉萨特色手工艺产业带",
+          "location": "拉萨市",
+          "county": "城关区/堆龙德庆区",
+          "category": "珠宝饰品",
+          "tags": [
+            "藏饰",
+            "唐卡",
+            "藏毯",
+            "民族手工艺"
+          ],
+          "supplierCount": 800,
+          "topSuppliers": [
+            {
+              "name": "西藏天然饮用水有限公司",
+              "regTime": "2005-01",
+              "regCapital": "8000万",
+              "paidCapital": "8000万",
+              "qualification": "西藏名牌",
+              "partners": [],
+              "employees": "300+",
+              "revenue": "2亿+",
+              "contact": "0891-6328888",
+              "website": "",
+              "mainCategory": "藏饰品/民族工艺/天然矿泉水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "海南省",
+      "code": "hainan",
+      "color": "#38f9d7",
+      "belts": [
+        {
+          "name": "海口医药产业带",
+          "location": "海口市",
+          "county": "美兰区/龙华区/高新区",
+          "category": "医疗器械",
+          "tags": [
+            "生物医药",
+            "南药",
+            "保健品",
+            "医疗旅游"
+          ],
+          "supplierCount": 1500,
+          "topSuppliers": [
+            {
+              "name": "海南海药股份有限公司",
+              "regTime": "1965-01",
+              "regCapital": "90000万",
+              "paidCapital": "90000万",
+              "qualification": "上市公司",
+              "partners": [],
+              "employees": "3000+",
+              "revenue": "25亿+",
+              "contact": "0898-66811888",
+              "website": "www.haiyao.com.cn",
+              "mainCategory": "化学药/生物药/医疗器械"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
