@@ -8,6 +8,7 @@ import Records from './pages/Records';
 import Settings from './pages/Settings';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import InstallApp from './pages/InstallApp';
 
 function ProtectedRoute({ children }: { children: React.ReactNode }) {
   const { user, loading } = useAuth();
@@ -63,6 +64,10 @@ function AppRoutes() {
             <Register />
           </PublicRoute>
         }
+      />
+      <Route
+        path="/install"
+        element={<InstallApp />}
       />
       <Route
         path="/"

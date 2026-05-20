@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ArrowLeft, LogOut, PiggyBank, User, Download } from 'lucide-react';
+import { ArrowLeft, LogOut, PiggyBank, User, Download, Smartphone } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { budgetApi, recordsApi } from '../services/api';
 
@@ -99,6 +99,20 @@ export default function Settings() {
             </div>
           </div>
         </div>
+
+        <button
+          onClick={() => navigate('/install')}
+          className="w-full bg-white rounded-2xl p-5 shadow-md flex items-center gap-4 hover:shadow-lg transition-shadow"
+        >
+          <div className="w-12 h-12 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-xl flex items-center justify-center">
+            <Smartphone className="w-6 h-6 text-white" />
+          </div>
+          <div className="flex-1 text-left">
+            <div className="font-bold text-gray-900">安装应用到桌面</div>
+            <div className="text-sm text-gray-500">像原生应用一样使用</div>
+          </div>
+          <ArrowLeft className="w-5 h-5 text-gray-400 rotate-180" />
+        </button>
 
         <div className="bg-white rounded-2xl p-6 shadow-md">
           <div className="flex items-center gap-3 mb-4">
